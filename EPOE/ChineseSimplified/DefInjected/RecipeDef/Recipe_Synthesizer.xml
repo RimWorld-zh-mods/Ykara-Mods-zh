@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CreateAIChip.label>制作AI核心</CreateAIChip.label>
-  <CreateAIChip.description>制作AI核心。最高品质的电路需要黄金和先进零部件。</CreateAIChip.description>
-  <CreateAIChip.jobString>正在制作AI核心。</CreateAIChip.jobString>
+  <CreateAIChip.label>制作AI芯片</CreateAIChip.label>
+  <CreateAIChip.description>制作AI芯片。最高品质的电路需要黄金和先进零部件。</CreateAIChip.description>
+  <CreateAIChip.jobString>正在制作AI芯片。</CreateAIChip.jobString>
 
   <CreateJoywire.label>制作乐丝芯片</CreateJoywire.label>
   <CreateJoywire.description>制作乐丝芯片。最高品质的电路需要黄金和先进零部件。</CreateJoywire.description>

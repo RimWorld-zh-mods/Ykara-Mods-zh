@@ -3,7 +3,7 @@
 
   <!-- Added body parts -->
 
-  <AIChip.label>AI核心</AIChip.label>
+  <AIChip.label>AI芯片</AIChip.label>
   <AIChip.description>通過特殊的化學物質和電脈衝，這種小小的芯片可以完全恢復使用者的意識和行動能力。需要完成腦部手術研究才能安裝。</AIChip.description>
 
   <SyntheticLung.label>合成肺</SyntheticLung.label>

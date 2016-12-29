@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <InstallAIChip.label>安裝AI核心</InstallAIChip.label>
-  <InstallAIChip.description>安裝AI核心。</InstallAIChip.description>
-  <InstallAIChip.jobString>正在安裝AI核心。</InstallAIChip.jobString>
+  <InstallAIChip.label>安裝AI芯片</InstallAIChip.label>
+  <InstallAIChip.description>安裝AI芯片。</InstallAIChip.description>
+  <InstallAIChip.jobString>正在安裝AI芯片。</InstallAIChip.jobString>
 
   <!-- [Core] <InstallJoywire.label>安裝樂絲晶片</InstallJoywire.label>-->
   <!-- [Core] <InstallJoywire.description>安裝樂絲晶片。</InstallJoywire.description>-->

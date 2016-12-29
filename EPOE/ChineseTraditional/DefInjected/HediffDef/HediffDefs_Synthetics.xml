@@ -3,7 +3,7 @@
 
   <!-- Added body parts -->
 
-  <AIChip.label>AI核心</AIChip.label>
+  <AIChip.label>AI芯片</AIChip.label>
   <SyntheticLung.label>合成肺</SyntheticLung.label>
   <SyntheticStomach.label>合成胃</SyntheticStomach.label>
   <SyntheticLiver.label>合成肝</SyntheticLiver.label>
