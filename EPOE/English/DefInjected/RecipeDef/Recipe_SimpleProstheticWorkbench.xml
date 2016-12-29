@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CreateSimpleProstheticLeg.label>Craft simple prosthetic leg</CreateSimpleProstheticLeg.label>
+  <CreateSimpleProstheticLeg.description>Crafts a simple prosthetic leg from steel, plasteel and components.</CreateSimpleProstheticLeg.description>
+  <CreateSimpleProstheticLeg.jobString>Crafting prosthesis.</CreateSimpleProstheticLeg.jobString>
+
+  <CreateSimpleProstheticArm.label>Craft simple prosthetic arm</CreateSimpleProstheticArm.label>
+  <CreateSimpleProstheticArm.description>Crafts a simple prosthetic arm from steel, plasteel and components.</CreateSimpleProstheticArm.description>
+  <CreateSimpleProstheticArm.jobString>Crafting prosthesis.</CreateSimpleProstheticArm.jobString>
+
+  <CreateSimpleProstheticHand.label>craft simple prosthetic hand</CreateSimpleProstheticHand.label>
+  <CreateSimpleProstheticHand.description>Crafts a simple prosthetic hand from steel, plasteel and components.</CreateSimpleProstheticHand.description>
+  <CreateSimpleProstheticHand.jobString>Crafting prosthesis.</CreateSimpleProstheticHand.jobString>
+
+  <CreateSimpleProstheticFoot.label>craft simple prosthetic foot</CreateSimpleProstheticFoot.label>
+  <CreateSimpleProstheticFoot.description>Crafts a simple prosthetic foot from steel, plasteel and components.</CreateSimpleProstheticFoot.description>
+  <CreateSimpleProstheticFoot.jobString>Crafting prosthesis.</CreateSimpleProstheticFoot.jobString>
+
+  <CreateArtificialNose.label>craft artificial nose</CreateArtificialNose.label>
+  <CreateArtificialNose.description>Crafts an artificial nose from plasteel.</CreateArtificialNose.description>
+  <CreateArtificialNose.jobString>Crafting prosthesis.</CreateArtificialNose.jobString>
+
+  <CreateHydraulicJaw.label>craft hydraulic jaw</CreateHydraulicJaw.label>
+  <CreateHydraulicJaw.description>Crafts a hydraulic jaw from steel and components.</CreateHydraulicJaw.description>
+  <CreateHydraulicJaw.jobString>Crafting prosthesis.</CreateHydraulicJaw.jobString>
+
+  <CreateGoldenEye.label>Craft golden eye</CreateGoldenEye.label>
+  <CreateGoldenEye.description>Gold bar + hammer = golden eye.</CreateGoldenEye.description>
+  <CreateGoldenEye.jobString>Crafting prosthesis.</CreateGoldenEye.jobString>
+
+  <CreateArtificialPelvis.label>craft artificial pelvis</CreateArtificialPelvis.label>
+  <CreateArtificialPelvis.description>Crafts an artificial pelvis from steel and plasteel.</CreateArtificialPelvis.description>
+  <CreateArtificialPelvis.jobString>Crafting prosthesis.</CreateArtificialPelvis.jobString>
+
+
+</LanguageData>

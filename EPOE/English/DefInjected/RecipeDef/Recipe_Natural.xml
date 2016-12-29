@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Vanilla -->
+
+  <InstallNaturalHeart.label>install heart</InstallNaturalHeart.label>
+  <InstallNaturalHeart.description>Installs heart.</InstallNaturalHeart.description>
+  <InstallNaturalHeart.jobString>Installing heart.</InstallNaturalHeart.jobString>
+
+  <InstallNaturalLiver.label>install liver</InstallNaturalLiver.label>
+  <InstallNaturalLiver.description>Installs liver.</InstallNaturalLiver.description>
+  <InstallNaturalLiver.jobString>Installing liver.</InstallNaturalLiver.jobString>
+
+  <InstallNaturalKidney.label>install kidney</InstallNaturalKidney.label>
+  <InstallNaturalKidney.description>Installs kidney.</InstallNaturalKidney.description>
+  <InstallNaturalKidney.jobString>Installing kidney.</InstallNaturalKidney.jobString>
+
+  <InstallNaturalLung.label>install lung</InstallNaturalLung.label>
+  <InstallNaturalLung.description>Installs lung.</InstallNaturalLung.description>
+  <InstallNaturalLung.jobString>Installing lung.</InstallNaturalLung.jobString>
+
+
+  <!-- EPOE -->
+
+  <InstallNaturalEye.label>install eye</InstallNaturalEye.label>
+  <InstallNaturalEye.description>Installs eye.</InstallNaturalEye.description>
+  <InstallNaturalEye.jobString>Installing eye.</InstallNaturalEye.jobString>
+
+  <InstallNaturalNose.label>install nose</InstallNaturalNose.label>
+  <InstallNaturalNose.description>Installs nose.</InstallNaturalNose.description>
+  <InstallNaturalNose.jobString>Installing nose.</InstallNaturalNose.jobString>
+
+  <InstallNaturalEar.label>install ear</InstallNaturalEar.label>
+  <InstallNaturalEar.description>Installs ear.</InstallNaturalEar.description>
+  <InstallNaturalEar.jobString>Installing ear.</InstallNaturalEar.jobString>
+
+  <InstallNaturalJaw.label>install jaw</InstallNaturalJaw.label>
+  <InstallNaturalJaw.description>Installs jaw.</InstallNaturalJaw.description>
+  <InstallNaturalJaw.jobString>Installing jaw.</InstallNaturalJaw.jobString>
+
+  <InstallNaturalArm.label>install arm</InstallNaturalArm.label>
+  <InstallNaturalArm.description>Installs arm.</InstallNaturalArm.description>
+  <InstallNaturalArm.jobString>Installing arm.</InstallNaturalArm.jobString>
+
+  <InstallNaturalLeg.label>install leg</InstallNaturalLeg.label>
+  <InstallNaturalLeg.description>Installs leg.</InstallNaturalLeg.description>
+  <InstallNaturalLeg.jobString>Installing leg.</InstallNaturalLeg.jobString>
+
+  <InstallNaturalStomach.label>install stomach</InstallNaturalStomach.label>
+  <InstallNaturalStomach.description>Installs stomach.</InstallNaturalStomach.description>
+  <InstallNaturalStomach.jobString>Installing stomach.</InstallNaturalStomach.jobString>
+
+
+</LanguageData>

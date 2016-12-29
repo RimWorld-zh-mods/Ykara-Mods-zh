@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <AdvancedPowerArm.label>advanced power arm</AdvancedPowerArm.label>
+  <AdvancedPowerArm.description>Even more unparalleled strength and dexterity, and with a sharp, retractable claws. Now it's the ultimate arm upgrade!</AdvancedPowerArm.description>
+
+  <AdvancedBionicHand.label>advanced bionic hand</AdvancedBionicHand.label>
+  <AdvancedBionicHand.description>Some people would chop their own hands off just to get this gorgeous piece of tech.</AdvancedBionicHand.description>
+
+  <AdvancedBionicArm.label>advanced bionic arm</AdvancedBionicArm.label>
+  <AdvancedBionicArm.description>Remember when you struggled with opening jars? Now you struggle with not breaking them instantly.</AdvancedBionicArm.description>
+
+  <AdvancedBionicLeg.label>advanced bionic leg</AdvancedBionicLeg.label>
+  <AdvancedBionicLeg.description>Impressing technology allows the user to move around faster than ever.</AdvancedBionicLeg.description>
+
+  <AdvancedBionicFoot.label>advanced bionic foot</AdvancedBionicFoot.label>
+  <AdvancedBionicFoot.description>Dozens of servomotors grant faster movement and ultimate comfort.</AdvancedBionicFoot.description>
+
+  <AdvancedBionicEar.label>advanced bionic ear</AdvancedBionicEar.label>
+  <AdvancedBionicEar.description>This device allows the user to hear better than bats.</AdvancedBionicEar.description>
+
+  <AdvancedBionicJaw.label>advanced bionic jaw</AdvancedBionicJaw.label>
+  <AdvancedBionicJaw.description>The voice this jaw creates is so beautiful that even some mechanoids stop to listen to this sound.</AdvancedBionicJaw.description>
+
+  <AdvancedBionicEye.label>advanced bionic eye</AdvancedBionicEye.label>
+  <AdvancedBionicEye.description>This advanced piece of technology allows the user to perfectly see in the dark as well as to see through walls.</AdvancedBionicEye.description>
+
+  <AdvancedBionicSpine.label>advanced bionic spine</AdvancedBionicSpine.label>
+  <AdvancedBionicSpine.description>This durable device supports the back and makes working and walking much easier.</AdvancedBionicSpine.description>
+
+  <ExoskeletonSuit.label>exoskeleton suit</ExoskeletonSuit.label>
+  <ExoskeletonSuit.description>A high tech device made out of two components: a light skeletal structure to relieve the back and servomotors to make the user stronger.</ExoskeletonSuit.description>
+
+
+</LanguageData>

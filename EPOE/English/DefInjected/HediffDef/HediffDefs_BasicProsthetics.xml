@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <SteelArm.label>steel arm</SteelArm.label>
+  <EyePatch.label>eye patch</EyePatch.label>
+  <HookHand.label>Hook hand</HookHand.label>
+  <denture.label>denture</denture.label>
+  <PegLeg.label>peg leg</PegLeg.label>
+  <WoodenFoot.label>wooden foot</WoodenFoot.label>
+  <EarBandage.label>ear bandage</EarBandage.label>
+
+
+</LanguageData>

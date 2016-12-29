@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <AIChip.label>AI Chip</AIChip.label>
+  <SyntheticLung.label>synthetic lung</SyntheticLung.label>
+  <SyntheticStomach.label>synthetic stomach</SyntheticStomach.label>
+  <SyntheticLiver.label>synthetic liver</SyntheticLiver.label>
+  <SyntheticKidney.label>synthetic kidney</SyntheticKidney.label>
+  <SyntheticHeart.label>artificial heart</SyntheticHeart.label>
+
+
+</LanguageData>

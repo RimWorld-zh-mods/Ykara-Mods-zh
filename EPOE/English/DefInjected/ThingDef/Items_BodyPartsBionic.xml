@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <PowerArm.label>power arm</PowerArm.label>
+  <PowerArm.description>Unparalleled strength and dexterity, and with retractable claws. This is the ultimate arm upgrade!</PowerArm.description>
+
+  <BionicHand.label>bionic hand</BionicHand.label>
+  <BionicHand.description>Allows the user to perform tasks even faster than with regular hands.</BionicHand.description>
+
+  <BionicFoot.label>bionic foot</BionicFoot.label>
+  <BionicFoot.description>This prosthesis grants faster walking without stumbling all the time.</BionicFoot.description>
+
+  <BionicEar.label>bionic ear implant</BionicEar.label>
+  <BionicEar.description>An advanced device that expands upon the basic functions of the ear drum.</BionicEar.description>
+
+  <BionicJaw.label>bionic jaw implant</BionicJaw.label>
+  <BionicJaw.description>Aside from a strong set of teeth, this also comes with a voice modulator.</BionicJaw.description>
+
+  <SilentJaw.label>silent jaw implant</SilentJaw.label>
+  <SilentJaw.description>This version of the bionic jaw comes without a voice modulator, useful for abrasive patients.</SilentJaw.description>
+
+  <BionicSpine.label>bionic spine</BionicSpine.label>
+  <BionicSpine.description>This light and impressing device can replace a damaged spine.</BionicSpine.description>
+
+  <BionicEye.label>bionic eye</BionicEye.label>
+  <BionicEye.description>Advanced piece of technology made not only to fully replace natural eye, but also to give supernatural vision abilities.</BionicEye.description>
+
+  <BionicArm.label>bionic arm</BionicArm.label>
+  <BionicArm.description>One of the most sophisticated arm replacements. Gives extreme strength to its user.</BionicArm.description>
+
+  <BionicLeg.label>bionic leg</BionicLeg.label>
+  <BionicLeg.description>Bionic leg uses cutting-edge technology to give its owner extreme walking comfort and strength.</BionicLeg.description>
+
+  <PowerClaw.label>power claw</PowerClaw.label>
+  <PowerClaw.description>Powerful hand replacement consisting of three deadly claws.</PowerClaw.description>
+
+  <ScytherBlade.label>scyther blade</ScytherBlade.label>
+  <ScytherBlade.description>Hand replacement with a telescoping blade. Scavenged from a dead scyther mechanoid. Not very comfortable, but quite effective as a close-range weapon.</ScytherBlade.description>
+
+  <MedicalRib.label>medical rib replacement</MedicalRib.label>
+  <MedicalRib.description>An artificial rib, equipped with little blood filters and antibiotics-dispensers to keep the user healthy.</MedicalRib.description>
+
+  <DruggedRib.label>drugged rib replacement</DruggedRib.label>
+  <DruggedRib.description>An artificial rib, equipped with little alcohol-dispensers to keep the user happy.</DruggedRib.description>
+
+  <AdrenalineRib.label>adrenaline rib replacement</AdrenalineRib.label>
+  <AdrenalineRib.description>An artificial rib, equipped with little adrenaline-dispensers to keep the user fit and awake.</AdrenalineRib.description>
+
+  <PainkillerRib.label>painkiller rib replacement</PainkillerRib.label>
+  <PainkillerRib.description>An artificial rib, equipped with little morphine-dispensers to numb the user's pain. Side effects are respiratory ailments.</PainkillerRib.description>
+
+
+</LanguageData>
