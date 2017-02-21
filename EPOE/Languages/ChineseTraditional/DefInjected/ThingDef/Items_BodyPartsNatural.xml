@@ -35,6 +35,14 @@
   <Jaw.description>用於咀嚼食物和交談的一組漂亮牙齒。</Jaw.description>
 
 
+  <!--[Core] <Heart.label>heart</Heart.label>-->
+  <!--[Core] <Heart.description>Supplies blood and oxygen to all parts of the body. Ready to find a new owner.</Heart.description>-->
+  <!--[Core] <Liver.label>liver</Liver.label>-->
+  <!--[Core] <Liver.description>Plays an important role in metabolism.</Liver.description>-->
+  <!--[Core] <Lung.label>lung</Lung.label>-->
+  <!--[Core] <Lung.description>Essential part of the respiratory system.</Lung.description>-->
+  <!--[Core] <Kidney.label>kidney</Kidney.label>-->
+  <!--[Core] <Kidney.description>Filters and removes waste products from the blood.</Kidney.description>-->
   <!-- [Core] <Heart.label>心臟</Heart.label>-->
   <!-- [Core] <Heart.description>負責將血液和氧氣供給到身體的各個位置。待候新的主人。</Heart.description>-->
   <!-- [Core] <Liver.label>肝</Liver.label>-->

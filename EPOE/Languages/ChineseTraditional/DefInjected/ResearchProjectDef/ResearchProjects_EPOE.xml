@@ -18,14 +18,14 @@
   <Bionics.label>EPOE：仿生體</Bionics.label>
   <Bionics.description>探索微型馬達和電路的概念，更優秀的假體前景向你敞開。</Bionics.description>
 
-  <SurrogateOrgans.label>EPOE：替代體器官</SurrogateOrgans.label>
-  <SurrogateOrgans.description>獲取更高級的醫療只是，製作簡易替代體器官替換缺失的部件成為可能。</SurrogateOrgans.description>
+  <SurrogateOrgans.label>EPOE：組織列印</SurrogateOrgans.label>
+  <SurrogateOrgans.description>獲取更高級的醫療與技術知識，建造3D印表機以製作簡易的替代體器官成為可能。</SurrogateOrgans.description>
 
   <RibReplacements.label>EPOE：肋骨替換</RibReplacements.label>
   <RibReplacements.description>探索微型藥物釋放器的概念，探討將之內置於肋骨的方法。你現在可以製作和安裝肋骨植入物了。</RibReplacements.description>
 
-  <VancidiumRefineryTech.label>EPOE：超釩與先進零部件</VancidiumRefineryTech.label>
-  <VancidiumRefineryTech.description>隨機融合金屬時，你發現了製作非常輕盈但堅硬的金屬的方法，這可以用於製作更先進的假體。你現在可以在電熔煉器製作超釩，以及在零部件裝配台製作先進零部件了！</VancidiumRefineryTech.description>
+  <EnergizedComponents.label>EPOE：充能零件</EnergizedComponents.label>
+  <EnergizedComponents.description>用於驅動更複雜的仿生體。你現在可以在電子零件生產台製作充能零件了。</EnergizedComponents.description>
 
 
   <!-- Tier 2.5 -->
@@ -39,5 +39,8 @@
   <BrainSurgery.label>EPOE：腦部手術</BrainSurgery.label>
   <BrainSurgery.description>讓你能夠對腦部施行手術。</BrainSurgery.description>
 
+
+  <!--<VancidiumRefineryTech.label>EPOE：超釩與先進零部件</VancidiumRefineryTech.label>-->
+  <!--<VancidiumRefineryTech.description>隨機融合金屬時，你發現了製作非常輕盈但堅硬的金屬的方法，這可以用於製作更先進的假體。你現在可以在電熔煉器製作超釩，以及在零部件裝配台製作先進零部件了！</VancidiumRefineryTech.description>-->
 
 </LanguageData>

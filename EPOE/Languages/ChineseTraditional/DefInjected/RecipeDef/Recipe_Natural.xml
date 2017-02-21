@@ -51,6 +51,18 @@
   <InstallNaturalStomach.jobString>正在植入胃。</InstallNaturalStomach.jobString>
 
 
+  <!--[Core] <InstallNaturalHeart.label>install heart</InstallNaturalHeart.label>-->
+  <!--[Core] <InstallNaturalHeart.description>Installs heart.</InstallNaturalHeart.description>-->
+  <!--[Core] <InstallNaturalHeart.jobString>Installing heart.</InstallNaturalHeart.jobString>-->
+  <!--[Core] <InstallNaturalLiver.label>install liver</InstallNaturalLiver.label>-->
+  <!--[Core] <InstallNaturalLiver.description>Installs liver.</InstallNaturalLiver.description>-->
+  <!--[Core] <InstallNaturalLiver.jobString>Installing liver.</InstallNaturalLiver.jobString>-->
+  <!--[Core] <InstallNaturalKidney.label>install kidney</InstallNaturalKidney.label>-->
+  <!--[Core] <InstallNaturalKidney.description>Installs kidney.</InstallNaturalKidney.description>-->
+  <!--[Core] <InstallNaturalKidney.jobString>Installing kidney.</InstallNaturalKidney.jobString>-->
+  <!--[Core] <InstallNaturalLung.label>install lung</InstallNaturalLung.label>-->
+  <!--[Core] <InstallNaturalLung.description>Installs lung.</InstallNaturalLung.description>-->
+  <!--[Core] <InstallNaturalLung.jobString>Installing lung.</InstallNaturalLung.jobString>-->
   <!-- [Core] <InstallNaturalHeart.label>植入心臟</InstallNaturalHeart.label>-->
   <!-- [Core] <InstallNaturalHeart.description>將心臟植入身體。</InstallNaturalHeart.description>-->
   <!-- [Core] <InstallNaturalHeart.jobString>正在植入心臟。</InstallNaturalHeart.jobString>-->

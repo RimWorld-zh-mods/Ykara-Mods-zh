@@ -1,13 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DoBillsTableSurrogates.label>制作替代体器官</DoBillsTableSurrogates.label>
-  <DoBillsTableSurrogates.verb>制作</DoBillsTableSurrogates.verb>
-  <DoBillsTableSurrogates.gerund>制作</DoBillsTableSurrogates.gerund>
-
-  <DoBillsUpgradingStation.label>升级假体</DoBillsUpgradingStation.label>
-  <DoBillsUpgradingStation.verb>升级</DoBillsUpgradingStation.verb>
-  <DoBillsUpgradingStation.gerund>升级</DoBillsUpgradingStation.gerund>
+  <DoBillsTableOrgans.label>打印器官</DoBillsTableOrgans.label>
+  <DoBillsTableOrgans.verb>打印</DoBillsTableOrgans.verb>
+  <DoBillsTableOrgans.gerund>打印</DoBillsTableOrgans.gerund>
 
   <DoBillsSimpleProstheticWorkbench.label>制作简单假体</DoBillsSimpleProstheticWorkbench.label>
   <DoBillsSimpleProstheticWorkbench.verb>组装</DoBillsSimpleProstheticWorkbench.verb>
@@ -21,5 +17,12 @@
   <DoBillsBionicWorkbench.verb>组装</DoBillsBionicWorkbench.verb>
   <DoBillsBionicWorkbench.gerund>组装</DoBillsBionicWorkbench.gerund>
 
+
+  <!--<DoBillsTableSurrogates.label>制作替代体器官</DoBillsTableSurrogates.label>-->
+  <!--<DoBillsTableSurrogates.verb>制作</DoBillsTableSurrogates.verb>-->
+  <!--<DoBillsTableSurrogates.gerund>制作</DoBillsTableSurrogates.gerund>-->
+  <!--<DoBillsUpgradingStation.label>升级假体</DoBillsUpgradingStation.label>-->
+  <!--<DoBillsUpgradingStation.verb>升级</DoBillsUpgradingStation.verb>-->
+  <!--<DoBillsUpgradingStation.gerund>升级</DoBillsUpgradingStation.gerund>-->
 
 </LanguageData>

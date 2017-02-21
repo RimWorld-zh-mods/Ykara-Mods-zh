@@ -31,6 +31,10 @@
   <ArtificialClavicle.description>用来代替因为某些原因确实的锁骨。</ArtificialClavicle.description>
 
 
+  <!--[Core] <SimpleProstheticLeg.label>simple prosthetic leg</SimpleProstheticLeg.label>-->
+  <!--[Core] <SimpleProstheticLeg.description>Simple prosthesis made to replace missing leg. Not very comfortable but quite efficient.</SimpleProstheticLeg.description>-->
+  <!--[Core] <SimpleProstheticArm.label>simple prosthetic arm</SimpleProstheticArm.label>-->
+  <!--[Core] <SimpleProstheticArm.description>Simple but durable arm prosthesis.</SimpleProstheticArm.description>-->
   <!-- [Core] <SimpleProstheticLeg.label>简易的假腿</SimpleProstheticLeg.label>-->
   <!-- [Core] <SimpleProstheticLeg.description>用来替换缺失的腿的假肢，不是很舒服但是相当有效。</SimpleProstheticLeg.description>-->
   <!-- [Core] <SimpleProstheticArm.label>简易的假臂</SimpleProstheticArm.label>-->

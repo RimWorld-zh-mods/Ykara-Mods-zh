@@ -13,6 +13,8 @@
   <ArtificialPelvis.label>人造骨盆</ArtificialPelvis.label>
 
 
+  <!--[Core] <SimpleProstheticArm.label>simple prosthetic arm</SimpleProstheticArm.label>-->
+  <!--[Core] <SimpleProstheticLeg.label>simple prosthetic leg</SimpleProstheticLeg.label>-->
   <!-- [Core] <SimpleProstheticArm.label>简易的假臂</SimpleProstheticArm.label>-->
   <!-- [Core] <SimpleProstheticLeg.label>简易的假腿</SimpleProstheticLeg.label>-->
 

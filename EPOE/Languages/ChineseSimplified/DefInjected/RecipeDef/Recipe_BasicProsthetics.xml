@@ -30,6 +30,12 @@
   <InstallEarBandage.jobString>正在安装耳绷带。</InstallEarBandage.jobString>
 
 
+  <!--[Core] <InstallDenture.label>install denture</InstallDenture.label>-->
+  <!--[Core] <InstallDenture.description>Installs a simple denture.</InstallDenture.description>-->
+  <!--[Core] <InstallDenture.jobString>Installing a denture.</InstallDenture.jobString>-->
+  <!--[Core] <InstallPegLeg.label>install peg leg</InstallPegLeg.label>-->
+  <!--[Core] <InstallPegLeg.description>Installs a wooden leg.</InstallPegLeg.description>-->
+  <!--[Core] <InstallPegLeg.jobString>Installing peg leg.</InstallPegLeg.jobString>-->
   <!-- [Core] <InstallDenture.label>安装义齿</InstallDenture.label>-->
   <!-- [Core] <InstallDenture.description>安装义齿。</InstallDenture.description>-->
   <!-- [Core] <InstallDenture.jobString>正在安装义齿。</InstallDenture.jobString>-->

@@ -34,6 +34,12 @@
   <InstallSyntheticHeart.jobString>正在安裝合成心。</InstallSyntheticHeart.jobString>
 
 
+  <!--[Core] <InstallJoywire.label>install joywire</InstallJoywire.label>-->
+  <!--[Core] <InstallJoywire.description>Installs joywire.</InstallJoywire.description>-->
+  <!--[Core] <InstallJoywire.jobString>Installing joywire.</InstallJoywire.jobString>-->
+  <!--[Core] <InstallPainstopper.label>install painstopper</InstallPainstopper.label>-->
+  <!--[Core] <InstallPainstopper.description>Installs painstopper.</InstallPainstopper.description>-->
+  <!--[Core] <InstallPainstopper.jobString>Installing painstopper.</InstallPainstopper.jobString>-->
   <!-- [Core] <InstallJoywire.label>安裝樂絲晶片</InstallJoywire.label>-->
   <!-- [Core] <InstallJoywire.description>安裝樂絲晶片。</InstallJoywire.description>-->
   <!-- [Core] <InstallJoywire.jobString>正在安裝樂絲晶片。</InstallJoywire.jobString>-->
