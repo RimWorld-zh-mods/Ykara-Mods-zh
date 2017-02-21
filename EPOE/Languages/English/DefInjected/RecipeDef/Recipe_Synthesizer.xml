@@ -14,23 +14,23 @@
   <CreatePainstopper.jobString>Creating synthetic organ.</CreatePainstopper.jobString>
 
   <CreateSyntheticLung.label>Create synthetic lung</CreateSyntheticLung.label>
-  <CreateSyntheticLung.description>Creates a synthetic lung from hyperweave, advanced components and their surrogate counterpart and advanced components.</CreateSyntheticLung.description>
+  <CreateSyntheticLung.description>Creates a synthetic lung from hyperweave, energized components and their surrogate counterpart.</CreateSyntheticLung.description>
   <CreateSyntheticLung.jobString>Creating synthetic organ.</CreateSyntheticLung.jobString>
 
   <CreateSyntheticStomach.label>Create synthetic stomach</CreateSyntheticStomach.label>
-  <CreateSyntheticStomach.description>Creates a synthetic stomach from hyperweave, advanced components and their surrogate counterpart and advanced components.</CreateSyntheticStomach.description>
+  <CreateSyntheticStomach.description>Creates a synthetic stomach from hyperweave, energized components and their surrogate counterpart.</CreateSyntheticStomach.description>
   <CreateSyntheticStomach.jobString>Creating synthetic organ.</CreateSyntheticStomach.jobString>
 
   <CreateSyntheticLiver.label>Create synthetic liver</CreateSyntheticLiver.label>
-  <CreateSyntheticLiver.description>Creates a synthetic liver from hyperweave, advanced components and their surrogate counterpart and advanced components.</CreateSyntheticLiver.description>
+  <CreateSyntheticLiver.description>Creates a synthetic liver from hyperweave, energized components and their surrogate counterpart.</CreateSyntheticLiver.description>
   <CreateSyntheticLiver.jobString>Creating synthetic organ.</CreateSyntheticLiver.jobString>
 
   <CreateSyntheticKidney.label>Create synthetic kidney</CreateSyntheticKidney.label>
-  <CreateSyntheticKidney.description>Creates a synthetic kidney from hyperweave, advanced components and their surrogate counterpart.</CreateSyntheticKidney.description>
+  <CreateSyntheticKidney.description>Creates a synthetic kidney from hyperweave, energized components and their surrogate counterpart.</CreateSyntheticKidney.description>
   <CreateSyntheticKidney.jobString>Creating synthetic organ.</CreateSyntheticKidney.jobString>
 
   <CreateSyntheticHeart.label>Create synthetic heart</CreateSyntheticHeart.label>
-  <CreateSyntheticHeart.description>Creates an synthetic heart from hyperweave, advanced components and their surrogate counterpart and advanced components.</CreateSyntheticHeart.description>
+  <CreateSyntheticHeart.description>Creates an synthetic heart from hyperweave, energized components and their surrogate counterpart.</CreateSyntheticHeart.description>
   <CreateSyntheticHeart.jobString>Creating synthetic organ.</CreateSyntheticHeart.jobString>
 
   <CreateSyntheticSkin.label>Create synthetic skin</CreateSyntheticSkin.label>

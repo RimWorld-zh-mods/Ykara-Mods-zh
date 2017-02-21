@@ -1,13 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DoBillsTableSurrogates.label>Craft surrogate organs</DoBillsTableSurrogates.label>
-  <DoBillsTableSurrogates.verb>create</DoBillsTableSurrogates.verb>
-  <DoBillsTableSurrogates.gerund>creating</DoBillsTableSurrogates.gerund>
-
-  <DoBillsUpgradingStation.label>Upgrade prostheses</DoBillsUpgradingStation.label>
-  <DoBillsUpgradingStation.verb>upgrade</DoBillsUpgradingStation.verb>
-  <DoBillsUpgradingStation.gerund>upgrading</DoBillsUpgradingStation.gerund>
+  <DoBillsTableOrgans.label>Print organs</DoBillsTableOrgans.label>
+  <DoBillsTableOrgans.verb>print</DoBillsTableOrgans.verb>
+  <DoBillsTableOrgans.gerund>printing</DoBillsTableOrgans.gerund>
 
   <DoBillsSimpleProstheticWorkbench.label>Craft simple prostheses</DoBillsSimpleProstheticWorkbench.label>
   <DoBillsSimpleProstheticWorkbench.verb>assemble</DoBillsSimpleProstheticWorkbench.verb>
