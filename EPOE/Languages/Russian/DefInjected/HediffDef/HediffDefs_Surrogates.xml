@@ -3,9 +3,9 @@
 		
 	<BrainStimulator.label>Стимулятор мозга</BrainStimulator.label>
 	<SurrogateStomach.label>Заменитель желудка</SurrogateStomach.label>
-	<SurrogateLung.label>Заменитель легкого</SurrogateLung.label>
+	<SurrogateLung.label>Заменитель лёгкого</SurrogateLung.label>
 	<SurrogateLiver.label>Заменитель печени</SurrogateLiver.label>
 	<SurrogateKidney.label>Заменитель почки</SurrogateKidney.label>
-	<SurrogateHeart.label>Искусственное сердце</SurrogateHeart.label>
+	<SurrogateHeart.label>Заменитель сердца</SurrogateHeart.label>
 	
 </LanguageData>

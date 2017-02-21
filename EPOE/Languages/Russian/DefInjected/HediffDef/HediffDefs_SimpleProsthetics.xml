@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 		
+	<GoldenEye.label>Золотой глаз</GoldenEye.label>	
 	<SimpleProstheticHand.label>Простой протез кисти</SimpleProstheticHand.label>
 	<SimpleProstheticFoot.label>Простой протез ступни</SimpleProstheticFoot.label>
 	<ArtificialPelvis.label>Искусственный таз</ArtificialPelvis.label>

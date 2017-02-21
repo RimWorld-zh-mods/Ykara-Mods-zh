@@ -3,55 +3,58 @@
 
 	<CreateBionicEye.label>Смастерить бионический глаз</CreateBionicEye.label>
 	<CreateBionicEye.description>Создание бионического глаза из пластали.</CreateBionicEye.description>
-	<CreateBionicEye.jobString>Создание бионического протеза</CreateBionicEye.jobString>
+	<CreateBionicEye.jobString>Создаёт бионический протез.</CreateBionicEye.jobString>
 	
 	<CreatePowerArm.label>Смастерить силовую руку</CreatePowerArm.label>
 	<CreatePowerArm.description>Установить силовой коготь на бионическую руку не то просто как кажется, но блин, это круто!</CreatePowerArm.description>
-	<CreatePowerArm.jobString>Создание бионического протеза</CreatePowerArm.jobString>
+	<CreatePowerArm.jobString>Создаёт бионический протез.</CreatePowerArm.jobString>
 	
 	<CreateBionicArm.label>Смастерить бионическую руку</CreateBionicArm.label>
-	<CreateBionicArm.description>Создание бионической руки из пластали и метала.</CreateBionicArm.description>
-	<CreateBionicArm.jobString>Создание бионического протеза</CreateBionicArm.jobString>
+	<CreateBionicArm.description>Улучшение простого протеза руки с помощью пластали и компонентов.</CreateBionicArm.description>
+	<CreateBionicArm.jobString>Создаёт бионический протез.</CreateBionicArm.jobString>
 
 	<CreateBionicHand.label>Смастерить бионическую кисть</CreateBionicHand.label>
-	<CreateBionicHand.description>Создание бионической кисти из пластали и метала.</CreateBionicHand.description>
-	<CreateBionicHand.jobString>Создание бионического протеза</CreateBionicHand.jobString>
+	<CreateBionicHand.description>Улучшение простого протеза кисти с помощью пластали и компонентов.</CreateBionicHand.description>
+	<CreateBionicHand.jobString>Создаёт бионический протез.</CreateBionicHand.jobString>
 
 	<CreateBionicFoot.label>Смастерить бионическую ступню</CreateBionicFoot.label>
-	<CreateBionicFoot.description>Создание бионической ступни из пластали и металла.</CreateBionicFoot.description>
-	<CreateBionicFoot.jobString>Создание бионического протеза</CreateBionicFoot.jobString>
+	<CreateBionicFoot.description>Улучшение простого протеза ступни с помощью пластали и компонентов.</CreateBionicFoot.description>
+	<CreateBionicFoot.jobString>Создаёт бионический протез.</CreateBionicFoot.jobString>
 
 	<CreateBionicLeg.label>Смастерить бионическую ногу</CreateBionicLeg.label>
-	<CreateBionicLeg.description>Создание бионической ноги из пластали и металла.</CreateBionicLeg.description>
-	<CreateBionicLeg.jobString>Создание бионического протеза</CreateBionicLeg.jobString>
+	<CreateBionicLeg.description>Улучшение простого протеза ноги с помощью пластали и компонентов.</CreateBionicLeg.description>
+	<CreateBionicLeg.jobString>Создаёт бионический протез.</CreateBionicLeg.jobString>
 
 	<CreateBionicEar.label>Смастерить бионическое ухо</CreateBionicEar.label>
-	<CreateBionicEar.description>Создание бионического уха из пластали. Требуется 3D-принтер и немного времени.</CreateBionicEar.description>
-	<CreateBionicEar.jobString>Создание бионического протеза</CreateBionicEar.jobString>
+	<CreateBionicEar.description>Создание бионического уха из пластали.</CreateBionicEar.description>
+	<CreateBionicEar.jobString>Создаёт бионический протез.</CreateBionicEar.jobString>
 
 	<CreateBionicJaw.label>Смастерить бионическую челюсть</CreateBionicJaw.label>
-	<CreateBionicJaw.description>Создание бионической челюсти из стали и пластали. Требуется 3D-принтер и немного времени.</CreateBionicJaw.description>
-	<CreateBionicJaw.jobString>Создание бионического протеза</CreateBionicJaw.jobString>
+	<CreateBionicJaw.description>Создание бионической челюсти из стали и пластали. </CreateBionicJaw.description>
+	<CreateBionicJaw.jobString>Создаёт бионический протез.</CreateBionicJaw.jobString>
 
 	<CreateSilentJaw.label>Смастерить "молчаливую" челюсть</CreateSilentJaw.label>
-	<CreateSilentJaw.description>Создание бионической "молчаливой" челюсти из стали и пластали. Требуется 3D-принтер и немного времени.</CreateSilentJaw.description>
-	<CreateSilentJaw.jobString>Создание бионического протеза</CreateSilentJaw.jobString>
+	<CreateSilentJaw.description>Создание бионической "молчаливой" челюсти из стали и пластали.</CreateSilentJaw.description>
+	<CreateSilentJaw.jobString>Создаёт бионический протез.</CreateSilentJaw.jobString>
 
 	<CreateBionicSpine.label>Смастерить бионический позвоночник</CreateBionicSpine.label>
-	<CreateBionicSpine.description>Создание бионического позвоночника из стали и пластали. Требуется 3D-принтер и немного времени.</CreateBionicSpine.description>
-	<CreateBionicSpine.jobString>Создание бионического протеза</CreateBionicSpine.jobString>
+	<CreateBionicSpine.description>Создание бионического позвоночника из стали и пластали.</CreateBionicSpine.description>
+	<CreateBionicSpine.jobString>Создаёт бионический протез.</CreateBionicSpine.jobString>
 
-	<CreateMedicalRib.label>Смастерить медицинское реберо </CreateMedicalRib.label>
-	<CreateMedicalRib.description>Создание медицинское ребро заменителя из пластали и передовых медикаментов. Требуется 3D-принтер и немного времени.</CreateMedicalRib.description>
-	<CreateMedicalRib.jobString>Создание бионического протеза</CreateMedicalRib.jobString>
+	<CreateMedicalRib.label>Смастерить медицинское ребро</CreateMedicalRib.label>
+	<CreateMedicalRib.description>Создание медицинского ребра из пластали и передовых медикаментов.</CreateMedicalRib.description>
+	<CreateMedicalRib.jobString>Создаёт бионический протез.</CreateMedicalRib.jobString>
 
 	<CreateDruggedRib.label>Смастерить стимулирующее ребро</CreateDruggedRib.label>
-	<CreateDruggedRib.description>Создание стимулирующего ребра из пластали и пива. Требуется 3D-принтер и немного времени.</CreateDruggedRib.description>
-	<CreateDruggedRib.jobString>Создание бионического протеза</CreateDruggedRib.jobString>
+	<CreateDruggedRib.description>Создание стимулирующего ребра из пластали и пива.</CreateDruggedRib.description>
+	<CreateDruggedRib.jobString>Создаёт бионический протез.</CreateDruggedRib.jobString>
 	
-	<CreateDruggedRib.label>Смастерить экзоскелет</CreateDruggedRib.label>
-	<CreateDruggedRib.description>Создание экзоскелета из стали и пластали. Требуется 3D-принтер и немного времени.</CreateDruggedRib.description>
-	<CreateDruggedRib.jobString>Создание бионического протеза</CreateDruggedRib.jobString>
-
+	<CreateAdrenalineRib.label>Смастерить адреналиновое ребро</CreateAdrenalineRib.label>
+	<CreateAdrenalineRib.description>Создание адреналинового ребра из пластали и психина(порошок)</CreateAdrenalineRib.description>
+	<CreateAdrenalineRib.jobstring>Создаёт бионический протез.</CreateAdrenalineRib.jobstring>
+	
+	<CreatePainkillerRib.label>Смастерить обезболивающее ребро</CreatePainkillerRib.label>
+	<CreatePainkillerRib.description>Создание обезболивающего ребра из пластали и Go-сока.</CreatePainkillerRib.description>
+	<CreatePainkillerRib.jobstring>Создаёт бионический протез.</CreatePainkillerRib.jobstring>
 	
 </LanguageData>

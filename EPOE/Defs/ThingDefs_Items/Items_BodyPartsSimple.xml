@@ -21,7 +21,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>1500</MarketValue>
+			<MarketValue>300</MarketValue>
+			<Mass>0.3</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Simple</li>
@@ -37,7 +38,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>150</MarketValue>
+			<MarketValue>300</MarketValue>
+			<Mass>0.2</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Simple</li>
@@ -53,7 +55,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>750</MarketValue>
+			<MarketValue>200</MarketValue>
+			<Mass>2</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Simple</li>
@@ -69,7 +72,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>1500</MarketValue>
+			<MarketValue>450</MarketValue>
+			<Mass>3</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Simple</li>
@@ -85,7 +89,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>1500</MarketValue>
+			<MarketValue>400</MarketValue>
+			<Mass>3</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Simple</li>
@@ -101,7 +106,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>2000</MarketValue>
+			<MarketValue>700</MarketValue>
+			<Mass>8</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Simple</li>
@@ -117,7 +123,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>2000</MarketValue>
+			<MarketValue>700</MarketValue>
+			<Mass>5</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Simple</li>
@@ -127,13 +134,31 @@
 	<ThingDef ParentName="Simple">
 		<defName>ArtificialPelvis</defName>
 		<label>artificial pelvis</label>
-		<description>Replaces a missing pelvis. Pretty useful if crawling is not your favourite kind of moving around.</description>
+		<description>Replaces a missing pelvis. Pretty useful if crawling is not your favourite way of moving around.</description>
 		<graphicData>
 			<texPath>Things/Item/BodyPart/ArtificialOrgan</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>750</MarketValue>
+			<MarketValue>450</MarketValue>
+			<Mass>5</Mass>
+		</statBases>
+		<techHediffsTags>
+			<li>Simple</li>
+		</techHediffsTags>
+	</ThingDef>
+	
+	<ThingDef ParentName="Simple">
+		<defName>ArtificialClavicle</defName>
+		<label>artificial clavicle</label>
+		<description>Replaces a missing clavicle. If you somehow manage to break yours.</description>
+		<graphicData>
+			<texPath>Things/Item/BodyPart/ArtificialOrgan</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<MarketValue>100</MarketValue>
+			<Mass>0.5</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Simple</li>

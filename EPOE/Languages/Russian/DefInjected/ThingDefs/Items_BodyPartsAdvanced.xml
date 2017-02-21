@@ -2,7 +2,7 @@
 <LanguageData>
 
 	<AdvancedPowerArm.label>Улучшенная силовая рука</AdvancedPowerArm.label>
-	<AdvancedPowerArm.description>Еще более беспрецедентная сила и ловкость с острыми выдвигающимися когтями.</AdvancedPowerArm.description>
+	<AdvancedPowerArm.description>Еще более беспрецедентная сила и ловкость с острыми выдвигающимися когтями. Максимальное улучшение вашей руки!</AdvancedPowerArm.description>
 
 	<AdvancedBionicHand.label>Улучшенная бионическая кисть</AdvancedBionicHand.label>
 	<AdvancedBionicHand.description>Некоторые люди рубят свои руки только для того, чтобы получить этот великолепный кусок технологий.</AdvancedBionicHand.description>
@@ -27,5 +27,8 @@
 
 	<AdvancedBionicSpine.label>Улучшенный бионический позвоночник</AdvancedBionicSpine.label>
 	<AdvancedBionicSpine.description>Это прочное устройство поддерживает спину и позволяет работать и передвигаться гораздо проще.</AdvancedBionicSpine.description>
+	
+	<ExoskeletonSuit.label>Экзоскелет</ExoskeletonSuit.label>
+	<ExoskeletonSuit.description>Высокотехнологичное устройтво состоящие из двух частей: лёгкая скелетная структура для разгрузки спины и сервомоторы делающие носителя сильнее.</ExoskeletonSuit.description>
 
 </LanguageData>

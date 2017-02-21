@@ -457,7 +457,7 @@
 	<RecipeDef ParentName="RecipeBionicProsthesis">
 		<defName>CreateDruggedRib</defName>
 		<label>Craft drugged rib</label>
-		<description>Crafts a drugged rib from plasteel and beer.</description>
+		<description>Crafts a drugged rib from plasteel and flake.</description>
 		<jobString>Crafting bionic.</jobString>
 		<ingredients>
 			<li>
@@ -471,16 +471,16 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>Beer</li>
+						<li>Flake</li>
 					</thingDefs>
 				</filter>
-				<count>20</count>
+				<count>10</count>
 			</li>
 		</ingredients>
 		<fixedIngredientFilter>
 			<thingDefs>
 				<li>Plasteel</li>
-				<li>Beer</li>
+				<li>Flake</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>

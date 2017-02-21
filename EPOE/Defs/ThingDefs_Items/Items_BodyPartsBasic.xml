@@ -21,7 +21,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>50</MarketValue>
+			<MarketValue>200</MarketValue>
+			<Mass>6</Mass>
 		</statBases>
 	</ThingDef>
 
@@ -34,7 +35,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>30</MarketValue>
+			<MarketValue>65</MarketValue>
+			<Mass>0.3</Mass>
 		</statBases>
 	</ThingDef>
 
@@ -47,7 +49,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>100</MarketValue>
+			<MarketValue>115</MarketValue>
+			<Mass>2</Mass>
 		</statBases>
 	</ThingDef>
 
@@ -60,7 +63,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>100</MarketValue>
+			<MarketValue>40</MarketValue>
+			<Mass>2</Mass>
 		</statBases>
 	</ThingDef>
 
@@ -74,6 +78,7 @@
 		</graphicData>
 		<statBases>
 			<MarketValue>100</MarketValue>
+			<Mass>6</Mass>
 		</statBases>
 	</ThingDef>
 
@@ -86,7 +91,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>15</MarketValue>
+			<MarketValue>25</MarketValue>
+			<Mass>2</Mass>
 		</statBases>
 	</ThingDef>
 
@@ -99,7 +105,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>30</MarketValue>
+			<MarketValue>50</MarketValue>
+			<Mass>0.2</Mass>
 		</statBases>
 	</ThingDef>
 

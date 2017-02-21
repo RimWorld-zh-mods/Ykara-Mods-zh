@@ -21,7 +21,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>4500</MarketValue>
+			<MarketValue>1000</MarketValue>
+			<Mass>0.1</Mass>
 		</statBases>
 	</ThingDef>
 
@@ -34,20 +35,22 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>1000</MarketValue>
+			<MarketValue>750</MarketValue>
+			<Mass>2</Mass>
 		</statBases>
 	</ThingDef>
 
 	<ThingDef ParentName="Surrogate">
 		<defName>SurrogateStomach</defName>
 		<label>surrogate stomach</label>
-		<description>A rudimentary stomach replacement.</description>
+		<description>A rudimentary stomach replacement. Produces unpleasant smelling bowel gas.</description>
 		<graphicData>
 			<texPath>Things/Item/BodyPart/ArtificialOrgan</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>750</MarketValue>
+			<Mass>2</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -64,6 +67,7 @@
 		</graphicData>
 		<statBases>
 			<MarketValue>750</MarketValue>
+			<Mass>2</Mass>
 		</statBases>
 	</ThingDef>
 
@@ -77,19 +81,21 @@
 		</graphicData>
 		<statBases>
 			<MarketValue>750</MarketValue>
+			<Mass>2</Mass>
 		</statBases>
 	</ThingDef>
 
 	<ThingDef ParentName="Surrogate">
 		<defName>SurrogateHeart</defName>
 		<label>surrogate heart</label>
-		<description>A more or less powerful pump to maintain the bloodstream.</description>
+		<description>A more or less powerful pump to maintain the bloodstream. Patients feel exhausted from time to time.</description>
 		<graphicData>
 			<texPath>Things/Item/BodyPart/ArtificialOrgan</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>1250</MarketValue>
+			<MarketValue>850</MarketValue>
+			<Mass>2</Mass>
 		</statBases>
 	</ThingDef>
 

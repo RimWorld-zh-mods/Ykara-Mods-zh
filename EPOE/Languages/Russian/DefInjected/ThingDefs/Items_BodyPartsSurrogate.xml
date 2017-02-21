@@ -2,19 +2,19 @@
 <LanguageData>
 
 	<BrainStimulator.label>Стимулятор мозга</BrainStimulator.label>
-	<BrainStimulator.description>Маленькое устройство, которое делает все возможное, чтобы стимулировать оставшиеся участки мозга.</BrainStimulator.description>
+	<BrainStimulator.description>Маленькое устройство, которое делает все возможное, чтобы стимулировать оставшиеся участки мозга. Рекомендуется только при критическом повреждении мозга. Необходимо открыть технологию "Операции на мозге".</BrainStimulator.description>
 
 	<SurrogateLung.label>Заменитель легкого</SurrogateLung.label>
-	<SurrogateLung.description>Заменитель легкого.</SurrogateLung.description>
+	<SurrogateLung.description>Простейший заменитель легкого. Издаёт низкий, щёлкающий звук.</SurrogateLung.description>
 
 	<SurrogateStomach.label>Заменитель желудка</SurrogateStomach.label>
-	<SurrogateStomach.description>Заменитель желудка.</SurrogateStomach.description>
+	<SurrogateStomach.description>Простейший заменитель желудка.</SurrogateStomach.description>
 
 	<SurrogateLiver.label>Заменитель печени</SurrogateLiver.label>
-	<SurrogateLiver.description>Фильтр крови.</SurrogateLiver.description>
+	<SurrogateLiver.description>Простейший фильтр крови. Имеются проблемы с поддержанием постоянного уровня сахара в крови.</SurrogateLiver.description>
 
 	<SurrogateKidney.label>Заменитель почки</SurrogateKidney.label>
-	<SurrogateKidney.description>Заменитель почки. Один из его побочных эффектов это бледность.</SurrogateKidney.description>
+	<SurrogateKidney.description>Простейший заменитель почки. Один из его побочных эффектов это бледность.</SurrogateKidney.description>
 
 	<SurrogateHeart.label>Заменитель сердца</SurrogateHeart.label>
 	<SurrogateHeart.description>Более или менее мощный насос, чтобы поддерживать кровоток в теле.</SurrogateHeart.description>

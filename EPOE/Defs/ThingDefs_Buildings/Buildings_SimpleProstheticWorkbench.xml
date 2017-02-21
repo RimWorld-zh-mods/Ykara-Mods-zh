@@ -51,6 +51,7 @@
          <li>CreateSimpleProstheticHand</li>
          <li>CreateSimpleProstheticFoot</li>
          <li>CreateArtificialPelvis</li>
+		 <li>CreateArtificialClavicle</li>
          <li>CreateHydraulicJaw</li>
          <li>CreateArtificialNose</li>
          <li>CreateGoldenEye</li>

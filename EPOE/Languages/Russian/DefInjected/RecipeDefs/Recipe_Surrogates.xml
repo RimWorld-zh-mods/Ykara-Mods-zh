@@ -2,27 +2,27 @@
 <LanguageData>
 
 	<InstallBrainStimulator.label>Имплантировать стимулятор мозга</InstallBrainStimulator.label>
-	<InstallBrainStimulator.description>Имплантация стимулятора мозга.</InstallBrainStimulator.description>
-    <InstallBrainStimulator.jobString>Имплантация стимулятора мозга</InstallBrainStimulator.jobString>
+	<InstallBrainStimulator.description>Имплантировать стимулятор мозга.</InstallBrainStimulator.description>
+    <InstallBrainStimulator.jobString>Имплантирует стимулятор мозг.</InstallBrainStimulator.jobString>
 	
 	<InstallSurrogateLung.label>Имплантировать заменитель легкого</InstallSurrogateLung.label>
-	<InstallSurrogateLung.description>Имплантация заменителя легкого</InstallSurrogateLung.description>
-    <InstallSurrogateLung.jobString>Имплантация заменителя легкого</InstallSurrogateLung.jobString>
+	<InstallSurrogateLung.description>Имплантировать заменитель легкого.</InstallSurrogateLung.description>
+    <InstallSurrogateLung.jobString>Имплантирует заменитель легкого.</InstallSurrogateLung.jobString>
 	
 	<InstallSurrogateStomach.label>Имплантировать заменитель желудка</InstallSurrogateStomach.label>
-	<InstallSurrogateStomach.description>Имплантация заменителя желудка.</InstallSurrogateStomach.description>
-    <InstallSurrogateStomach.jobString>Имплантация заменителя желудка</InstallSurrogateStomach.jobString>
+	<InstallSurrogateStomach.description>Имплантировать заменитель желудка.</InstallSurrogateStomach.description>
+    <InstallSurrogateStomach.jobString>Имплантирует заменитель желудка.</InstallSurrogateStomach.jobString>
 	
 	<InstallSurrogateLiver.label>Имплантировать заменитель печени</InstallSurrogateLiver.label>
-	<InstallSurrogateLiver.description>Имплантация заменителя ппечени.</InstallSurrogateLiver.description>
-    <InstallSurrogateLiver.jobString>Имплантация заменителя ппечени</InstallSurrogateLiver.jobString>
+	<InstallSurrogateLiver.description>Имплантировать заменитель ппечени.</InstallSurrogateLiver.description>
+    <InstallSurrogateLiver.jobString>Имплантирует заменитель ппечени.</InstallSurrogateLiver.jobString>
 	
 	<InstallSurrogateKidney.label>Имплантировать заменитель почки</InstallSurrogateKidney.label>
-	<InstallSurrogateKidney.description>Имплантация заменителя почки.</InstallSurrogateKidney.description>
-    <InstallSurrogateKidney.jobString>Имплантация заменителя почки</InstallSurrogateKidney.jobString>
+	<InstallSurrogateKidney.description>Имплантировать заменитель почки.</InstallSurrogateKidney.description>
+    <InstallSurrogateKidney.jobString>Имплантирует заменитель почки.</InstallSurrogateKidney.jobString>
 	
 	<InstallSurrogateHeart.label>Имплантировать заменитель сердца</InstallSurrogateHeart.label>
-	<InstallSurrogateHeart.description>Имплантация заменителя сердца.</InstallSurrogateHeart.description>
-    <InstallSurrogateHeart.jobString>Имплантация заменителя сердца</InstallSurrogateHeart.jobString>
+	<InstallSurrogateHeart.description>Имплантировать заменитель сердца.</InstallSurrogateHeart.description>
+    <InstallSurrogateHeart.jobString>Имплантирует заменитель сердца.</InstallSurrogateHeart.jobString>
 	
 </LanguageData>

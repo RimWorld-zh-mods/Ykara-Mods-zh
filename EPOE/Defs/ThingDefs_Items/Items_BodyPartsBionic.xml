@@ -22,6 +22,7 @@
 		</graphicData>
 		<statBases>
 			<MarketValue>7500</MarketValue>
+			<Mass>6</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>AdvancedWeapon</li>
@@ -37,7 +38,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>2000</MarketValue>
+			<MarketValue>1000</MarketValue>
+			<Mass>3</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -53,7 +55,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>2000</MarketValue>
+			<MarketValue>750</MarketValue>
+			<Mass>3</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -69,7 +72,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>1500</MarketValue>
+			<MarketValue>800</MarketValue>
+			<Mass>0.3</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -85,7 +89,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>2000</MarketValue>
+			<MarketValue>1000</MarketValue>
+			<Mass>2</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -101,7 +106,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>2000</MarketValue>
+			<MarketValue>600</MarketValue>
+			<Mass>2</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -117,7 +123,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>3000</MarketValue>
+			<MarketValue>1750</MarketValue>
+			<Mass>4</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -133,7 +140,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>3500</MarketValue>
+			<MarketValue>1000</MarketValue>
+			<Mass>0.3</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -149,7 +157,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>4000</MarketValue>
+			<MarketValue>1750</MarketValue>
+			<Mass>5</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -165,7 +174,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>4000</MarketValue>
+			<MarketValue>1750</MarketValue>
+			<Mass>8</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -181,7 +191,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>1500</MarketValue>
+			<MarketValue>3750</MarketValue>
+			<Mass>4</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>AdvancedWeapon</li>
@@ -197,7 +208,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>2000</MarketValue>
+			<MarketValue>1500</MarketValue>
+			<Mass>3</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>SpecialWeapon</li>
@@ -214,7 +226,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>2000</MarketValue>
+			<MarketValue>750</MarketValue>
+			<Mass>0.3</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -230,7 +243,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>2000</MarketValue>
+			<MarketValue>800</MarketValue>
+			<Mass>0.3</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -246,7 +260,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>2000</MarketValue>
+			<MarketValue>800</MarketValue>
+			<Mass>0.3</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -262,7 +277,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>2000</MarketValue>
+			<MarketValue>800</MarketValue>
+			<Mass>0.3</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>

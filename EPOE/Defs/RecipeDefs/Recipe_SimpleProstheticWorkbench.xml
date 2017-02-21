@@ -304,5 +304,30 @@
 			</thingDefs>
 		</fixedIngredientFilter>
 	</RecipeDef>
+	
+	<RecipeDef ParentName="RecipeSimpleProsthesis">
+		<defName>CreateArtificialClavicle</defName>
+		<label>craft artificial clavicle</label>
+		<description>Crafts an artificial clavicle from steel.</description>
+		<jobString>Crafting prosthesis.</jobString>
+		<products>
+			<ArtificialClavicle>1</ArtificialClavicle>
+		</products>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Steel</li>
+					</thingDefs>
+				</filter>
+				<count>35</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Steel</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+	</RecipeDef>
 
 </RecipeDefs>

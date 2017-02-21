@@ -1,8 +1,23 @@
+1.91 - Translations and Minor Fixes (19.02.2017)
+*  Added Chinese Translation! (HUGE thanks to duduluu!)
+*  Added Polish Translation! (again, HUGE thanks to Dawidienko1!)
+*  Added Portuguese (Brazilian) Translation! (once again, HUGE thanks to homerbra!)
+*  Updated and completed the Russian Translation! (last, but not least, HUGE thanks to kors!)
+*  Adjusted most of the market values (thanks for pointing that out!)
+*  Added the artificial clavicle
+*  The drugged rib now requires flake instead of beer
+*  Clarified some research descriptions
+*  Made Vancidium smeltable
+*  Made some surrogate organs slightly more expensive to craft
+*  Peg leg and wooden foot now require more wood
+*  All items now have a mass
+*  Some other minor fixes
+
 1.9 - Quick A16 fix (22.12.2016)
-* Updated to Alpha 16!
-* Tidied up the workaround category mess (Creds to Dingo)
-* CreateSyntheticLiver recipe fixed to require 1 SurrogateLiver (Creds to Dingo)
-* Fixed missing research prerequisite for TableBasicProsthetic (Creds to Dingo)
+*  Updated to Alpha 16!
+*  Tidied up the workaround category mess (Creds to Dingo)
+*  CreateSyntheticLiver recipe fixed to require 1 SurrogateLiver (Creds to Dingo)
+*  Fixed missing research prerequisite for TableBasicProsthetic (Creds to Dingo)
 
 1.82 - Just a small fix (31.08.2016)
 *  You can now craft medicine at the drug lab again

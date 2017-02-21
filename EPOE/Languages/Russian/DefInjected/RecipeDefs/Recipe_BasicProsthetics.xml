@@ -3,27 +3,31 @@
 
 	<InstallSteelArm.label>Установить стальную руку</InstallSteelArm.label>
 	<InstallSteelArm.description>Установка стальной руки.</InstallSteelArm.description>
-	<InstallSteelArm.jobString>Установка стальной руки.</InstallSteelArm.jobString>
+	<InstallSteelArm.jobString>Устанавливает стальную руку.</InstallSteelArm.jobString>
 
 	<InstallEyePatch.label>Надеть повязку на глаз</InstallEyePatch.label>
 	<InstallEyePatch.description>Надевание повязки на глаз.</InstallEyePatch.description>
-	<InstallEyePatch.jobString>Надевание повязки на глаз</InstallEyePatch.jobString>
+	<InstallEyePatch.jobString>Надевает повязку на глаз.</InstallEyePatch.jobString>
 
 	<InstallHookHand.label>Установить руку-крюк</InstallHookHand.label>
 	<InstallHookHand.description>Установить руку-крюк.</InstallHookHand.description>
-	<InstallHookHand.jobString>Установка руки-крюка</InstallHookHand.jobString>
+	<InstallHookHand.jobString>Устанавливает руку-крюк.</InstallHookHand.jobString>
 
 	<InstallDenture.label>Установить зубной протез</InstallDenture.label>
 	<InstallDenture.description>Установка простого зубного протеза.</InstallDenture.description>
-	<InstallDenture.jobString>Установка простого зубного протеза</InstallDenture.jobString>
+	<InstallDenture.jobString>Устанавливает зубной протез.</InstallDenture.jobString>
 
 	<InstallWoodenFoot.label>Установить деревянную ступню</InstallWoodenFoot.label>
-	<InstallWoodenFoot.description>Установка деревянной сутпни.</InstallWoodenFoot.description>
-	<InstallWoodenFoot.jobString>Установка деревянной сутпни</InstallWoodenFoot.jobString>
+	<InstallWoodenFoot.description>Установка деревянной ступни.</InstallWoodenFoot.description>
+	<InstallWoodenFoot.jobString>Устанавливает деревянную ступню.</InstallWoodenFoot.jobString>
 
 	<InstallPegLeg.label>Установить деревянную ногу</InstallPegLeg.label>
 	<InstallPegLeg.description>Установка деревянной ноги.</InstallPegLeg.description>
-	<InstallPegLeg.jobString>Установка деревянной ноги</InstallPegLeg.jobString>
+	<InstallPegLeg.jobString>Устанавливает деревянную ногу.</InstallPegLeg.jobString>
+	
+	<InstallEarBandage.label>Установить повязку на ухо</InstallEarBandage.label>
+	<InstallEarBandage.description>Установить повязку на ухо.</InstallEarBandage.description>
+	<InstallEarBandage.jobstring>Устанавливает повязку на ухо</InstallEarBandage.jobstring>
 
 
 </LanguageData>

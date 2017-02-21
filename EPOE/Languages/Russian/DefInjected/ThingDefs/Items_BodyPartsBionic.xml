@@ -8,7 +8,7 @@
 	<BionicHand.description>Позволяет пользователю выполнять поставленные задачи быстрее, чем с обычными руками.</BionicHand.description>
 	
 	<BionicFoot.label>Бионическая ступня</BionicFoot.label>
-	<BionicFoot.description>Протез позволяет быстро ходить при это не спотыкаясь.</BionicFoot.description>
+	<BionicFoot.description>Протез позволяет быстро ходить при этом не спотыкаясь.</BionicFoot.description>
 	
 	<BionicEar.label>Бионический ушной имплантат</BionicEar.label>
 	<BionicEar.description>Устройство расширяющее основные функции барабанной перепонки.</BionicEar.description>
@@ -26,21 +26,27 @@
 	<BionicEye.description>Высокие технологии дали возможность не только полностью заменить натуральный глаз, но и дать сверхзрение.</BionicEye.description>
 
 	<BionicArm.label>Бионическая рука</BionicArm.label>
-	<BionicArm.description>Одна из самых лучших замен руки. Дает экстремальную прочность ее пользователю.</BionicArm.description>
+	<BionicArm.description>Одна из самых лучших замен руки. Дает экстремальную силу её пользователю.</BionicArm.description>
 
 	<BionicLeg.label>Бионическая нога</BionicLeg.label>
-	<BionicLeg.description>Бионическая нога использует передовые технологии, чтобы дать ее владельцу большой комфорт при передвижении и прочность.</BionicLeg.description>
+	<BionicLeg.description>Бионическая нога использует передовые технологии, чтобы дать её владельцу большой комфорт при передвижении и силу.</BionicLeg.description>
 
 	<PowerClaw.label>Силовой коготь</PowerClaw.label>
 	<PowerClaw.description>Замена кисти с тремя смертельными когтями.</PowerClaw.description>
 	
 	<ScytherBlade.label>Клинок жнеца</ScytherBlade.label>
-	<ScytherBlade.description>Замена руки телескопическим лезвием. Не очень удобно, но весьма эффективно в ближнем бою.</ScytherBlade.description>
+	<ScytherBlade.description>Замена кисти телескопическим лезвием. Не очень удобно, но весьма эффективно в ближнем бою.</ScytherBlade.description>
 
 	<MedicalRib.label>Медицинское ребро</MedicalRib.label>
-	<MedicalRib.description>Искусственное ребро оснащенное маленькими фильтрами крови и дозаторами антибиотиков для поддержки здоровья пользовотеля.</MedicalRib.description>
+	<MedicalRib.description>Искусственное ребро оснащённое маленькими фильтрами крови и дозаторами антибиотиков для поддержки здоровья пользователя.</MedicalRib.description>
 
 	<DruggedRib.label>Стимулирующее ребро</DruggedRib.label>
-	<DruggedRib.description>Искусственное ребро оснащенное дозатором алкоголя.</DruggedRib.description>
+	<DruggedRib.description>Искусственное ребро оснащённое дозатором алкоголя, повышая настроение пользователя.</DruggedRib.description>
+	
+	<AdrenalineRib.label>Адреналиновое ребро</AdrenalineRib.label>
+	<AdrenalineRib.description>Искусственное ребро оснащённое дозатором адреналина, позволяет чувствовать себя в форме и бодрячком.</AdrenalineRib.description>
+	
+	<PainkillerRib.label>Обезболивающее ребро</PainkillerRib.label>
+	<PainkillerRib.description>Искусственное ребро оснащённое маленькими дозаторами морфина, приглушающими боль пользователя. Побочные эффекты - лёгочные заболевания.</PainkillerRib.description>
 
 </LanguageData>

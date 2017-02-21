@@ -2,10 +2,10 @@
 <LanguageData>
 
 	<SteelArm.label>Стальная рука</SteelArm.label>
-	<SteelArm.description>Очень плохая замена руки. Выглядит плохо, чувствуется плохо, все плохо.</SteelArm.description>
+	<SteelArm.description>Очень плохая замена руки. Выглядит плохо, чувствуется плохо, всё плохо.</SteelArm.description>
 
 	<EyePatch.label>Глазная повязка</EyePatch.label>
-	<EyePatch.description>Глазная повязка. Устрашающе.</EyePatch.description>
+	<EyePatch.description>Закрывает пустую глазницу. Устрашающе.</EyePatch.description>
 	
 	<HookHand.label>Рука-крюк</HookHand.label>
 	<HookHand.description>Замена потерянной кисте. Довольно страшно. Арррр!</HookHand.description>
@@ -18,5 +18,8 @@
 	
 	<WoodenFoot.label>Деревянная ступня</WoodenFoot.label>
 	<WoodenFoot.description>Замена потерянной ступни. Более удобно, чем прыгать на одной ноге.</WoodenFoot.description>
+	
+	<EarBandage.label>повязка на ухо</EarBandage.label>
+	<EarBandage.description>Прикрывает отсутствующее ухо. Похоже на одного конректного художника 19 века!</EarBandage.description>
 
 </LanguageData>
