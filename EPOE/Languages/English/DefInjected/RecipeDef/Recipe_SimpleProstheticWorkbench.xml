@@ -33,5 +33,9 @@
   <CreateArtificialPelvis.description>Crafts an artificial pelvis from steel and plasteel.</CreateArtificialPelvis.description>
   <CreateArtificialPelvis.jobString>Crafting prosthesis.</CreateArtificialPelvis.jobString>
 
+  <CreateArtificialClavicle.label>craft artificial clavicle</CreateArtificialClavicle.label>
+  <CreateArtificialClavicle.description>Crafts an artificial clavicle from steel.</CreateArtificialClavicle.description>
+  <CreateArtificialClavicle.jobString>Crafting prosthesis.</CreateArtificialClavicle.jobString>
+
 
 </LanguageData>

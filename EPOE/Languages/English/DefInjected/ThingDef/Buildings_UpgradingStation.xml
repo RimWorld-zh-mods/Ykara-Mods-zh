@@ -3,6 +3,8 @@
 
   <UpgradingStation.label>upgrading station</UpgradingStation.label>
   <UpgradingStation.description>A workbench equipped for the production of advanced bionics and synthetic organs.</UpgradingStation.description>
+  <UpgradingStation_Blueprint.label>upgrading station (blueprint)</UpgradingStation_Blueprint.label>
+  <UpgradingStation_Frame.label>upgrading station (building)</UpgradingStation_Frame.label>
 
 
 </LanguageData>

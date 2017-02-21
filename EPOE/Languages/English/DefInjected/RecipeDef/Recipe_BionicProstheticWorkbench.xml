@@ -46,7 +46,7 @@
   <CreateMedicalRib.jobString>Crafting bionic.</CreateMedicalRib.jobString>
 
   <CreateDruggedRib.label>Craft drugged rib</CreateDruggedRib.label>
-  <CreateDruggedRib.description>Crafts a drugged rib from plasteel and beer.</CreateDruggedRib.description>
+  <CreateDruggedRib.description>Crafts a drugged rib from plasteel and flake.</CreateDruggedRib.description>
   <CreateDruggedRib.jobString>Crafting bionic.</CreateDruggedRib.jobString>
 
   <CreateAdrenalineRib.label>Craft adrenaline rib</CreateAdrenalineRib.label>

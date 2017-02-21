@@ -3,6 +3,8 @@
 
   <TableBionics.label>bionics workbench</TableBionics.label>
   <TableBionics.description>A workbench equipped for production of high tech bionics.</TableBionics.description>
+  <TableBionics_Blueprint.label>bionics workbench (blueprint)</TableBionics_Blueprint.label>
+  <TableBionics_Frame.label>bionics workbench (building)</TableBionics_Frame.label>
 
 
 </LanguageData>

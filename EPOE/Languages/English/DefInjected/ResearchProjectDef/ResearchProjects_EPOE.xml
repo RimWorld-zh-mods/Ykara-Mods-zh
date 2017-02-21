@@ -31,10 +31,10 @@
   <!-- Tier 2.5 -->
 
   <AdvancedBionics.label>advanced bionics</AdvancedBionics.label>
-  <AdvancedBionics.description>Upgrade regular bionics with vancidium to make them even better.</AdvancedBionics.description>
+  <AdvancedBionics.description>Upgrade regular bionics with vancidium to make them even better. Unlocks the upgrading station.</AdvancedBionics.description>
 
   <SyntheticOrgans.label>synthetic organs</SyntheticOrgans.label>
-  <SyntheticOrgans.description>Further research in nano-technology allows you to create incredibly well-engineered artificial organs on the upgrading station.</SyntheticOrgans.description>
+  <SyntheticOrgans.description>Further research in nano-technology allows you to create incredibly well-engineered artificial organs on the upgrading station. Unlocks new recipes on the upgrading station.</SyntheticOrgans.description>
 
   <BrainSurgery.label>brain surgery</BrainSurgery.label>
   <BrainSurgery.description>Allows you to perform surgery on the brain.</BrainSurgery.description>

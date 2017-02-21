@@ -10,7 +10,7 @@
   <SurrogateLung.description>A rudimentary lung replacement. Makes a deep, clicking noise.</SurrogateLung.description>
 
   <SurrogateStomach.label>surrogate stomach</SurrogateStomach.label>
-  <SurrogateStomach.description>A rudimentary stomach replacement.</SurrogateStomach.description>
+  <SurrogateStomach.description>A rudimentary stomach replacement. Produces unpleasant smelling bowel gas.</SurrogateStomach.description>
 
   <SurrogateLiver.label>surrogate liver</SurrogateLiver.label>
   <SurrogateLiver.description>A rudimentary blood filter. Has problems with keeping the blood sugar level constant.</SurrogateLiver.description>
@@ -19,7 +19,7 @@
   <SurrogateKidney.description>A rudimentary kidney replacement. One of its possible side effects is getting pale.</SurrogateKidney.description>
 
   <SurrogateHeart.label>surrogate heart</SurrogateHeart.label>
-  <SurrogateHeart.description>A more or less powerful pump to maintain the bloodstream.</SurrogateHeart.description>
+  <SurrogateHeart.description>A more or less powerful pump to maintain the bloodstream. Patients feel exhausted from time to time.</SurrogateHeart.description>
 
 
 </LanguageData>

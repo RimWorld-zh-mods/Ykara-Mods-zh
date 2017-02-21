@@ -25,7 +25,10 @@
   <SimpleProstheticArm.description>Simple but durable arm prosthesis.</SimpleProstheticArm.description>
 
   <ArtificialPelvis.label>artificial pelvis</ArtificialPelvis.label>
-  <ArtificialPelvis.description>Replaces a missing pelvis. Pretty useful if crawling is not your favourite kind of moving around.</ArtificialPelvis.description>
+  <ArtificialPelvis.description>Replaces a missing pelvis. Pretty useful if crawling is not your favourite way of moving around.</ArtificialPelvis.description>
+
+  <ArtificialClavicle.label>artificial clavicle</ArtificialClavicle.label>
+  <ArtificialClavicle.description>Replaces a missing clavicle. If you somehow manage to break yours.</ArtificialClavicle.description>
 
 
 </LanguageData>

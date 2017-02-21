@@ -3,6 +3,8 @@
 
   <TableBasicProsthetic.label>basic prosthetics workbench</TableBasicProsthetic.label>
   <TableBasicProsthetic.description>A workbench equipped for production of very simple prostheses.</TableBasicProsthetic.description>
+  <TableBasicProsthetic_Blueprint.label>basic prosthetics workbench (blueprint)</TableBasicProsthetic_Blueprint.label>
+  <TableBasicProsthetic_Frame.label>basic prosthetics workbench (building)</TableBasicProsthetic_Frame.label>
 
 
 </LanguageData>
