@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Tier 0 -->
@@ -31,10 +31,10 @@
   <!-- Tier 2.5 -->
 
   <AdvancedBionics.label>EPOE：先進仿生體</AdvancedBionics.label>
-  <AdvancedBionics.description>使用超釩升級普通的仿生體，使之更為優秀。</AdvancedBionics.description>
+  <AdvancedBionics.description>使用超釩升級普通的仿生體，使之更為優秀。解鎖「升級工作站」。</AdvancedBionics.description>
 
   <SyntheticOrgans.label>EPOE：合成器官</SyntheticOrgans.label>
-  <SyntheticOrgans.description>進一步研究納米技術，讓你能夠在升級工作站製作難以置信的精良人造器官。</SyntheticOrgans.description>
+  <SyntheticOrgans.description>進一步研究納米技術，讓你能夠在升級工作站製作難以置信的精良人造器官。升級工作站解鎖新配方。</SyntheticOrgans.description>
 
   <BrainSurgery.label>EPOE：腦部手術</BrainSurgery.label>
   <BrainSurgery.description>讓你能夠對腦部施行手術。</BrainSurgery.description>

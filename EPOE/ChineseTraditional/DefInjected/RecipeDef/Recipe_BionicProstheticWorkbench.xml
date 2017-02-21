@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <CreateBionicEye.label>製作仿生眼</CreateBionicEye.label>
@@ -46,7 +46,7 @@
   <CreateMedicalRib.jobString>正在製作仿生體。</CreateMedicalRib.jobString>
 
   <CreateDruggedRib.label>製作迷幻肋骨</CreateDruggedRib.label>
-  <CreateDruggedRib.description>使用塑鋼和啤酒製作迷幻肋骨。</CreateDruggedRib.description>
+  <CreateDruggedRib.description>使用塑鋼和薄片製作迷幻肋骨。</CreateDruggedRib.description>
   <CreateDruggedRib.jobString>正在製作仿生體。</CreateDruggedRib.jobString>
 
   <CreateAdrenalineRib.label>製作腎上腺素肋骨</CreateAdrenalineRib.label>

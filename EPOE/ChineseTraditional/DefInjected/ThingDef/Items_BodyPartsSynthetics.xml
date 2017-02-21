@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Added body parts -->
@@ -24,11 +24,16 @@
   <SyntheticSkin.label>合成皮膚</SyntheticSkin.label>
   <SyntheticSkin.description>一小片看起來很有趣的類皮膚材料。感覺就像真的皮膚一樣。</SyntheticSkin.description>
 
+  <!--[Core] <Joywire.label>joywire</Joywire.label>-->
+  <!--[Core] <Joywire.description>This little brain implant will make you feel happy and relaxed. Requires brain surgery research before installing.</Joywire.description>-->
+
+  <!--[Core] <Painstopper.label>painstopper</Painstopper.label>-->
+  <!--[Core] <Painstopper.description>This brain implant will make you not feel pain. Requires brain surgery research before installing.</Painstopper.description>-->
+
+
   <!-- [Core] <Joywire.label>樂絲芯片</Joywire.label>-->
   <!-- [Core] <Joywire.description>這個小小的大腦植入體會讓你感到愉悅和放鬆。</Joywire.description>-->
-
   <!-- [Core] <Painstopper.label>止痛芯片</Painstopper.label>-->
   <!-- [Core] <Painstopper.description>這種大腦植入體會讓你感覺不到疼痛。</Painstopper.description>-->
-
 
 </LanguageData>

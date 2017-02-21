@@ -46,7 +46,7 @@
   <CreateMedicalRib.jobString>正在制作仿生体。</CreateMedicalRib.jobString>
 
   <CreateDruggedRib.label>制作迷幻肋骨</CreateDruggedRib.label>
-  <CreateDruggedRib.description>使用玻璃钢和啤酒制作迷幻肋骨。</CreateDruggedRib.description>
+  <CreateDruggedRib.description>使用玻璃钢和薄片制作迷幻肋骨。</CreateDruggedRib.description>
   <CreateDruggedRib.jobString>正在制作仿生体。</CreateDruggedRib.jobString>
 
   <CreateAdrenalineRib.label>制作肾上腺素肋骨</CreateAdrenalineRib.label>
