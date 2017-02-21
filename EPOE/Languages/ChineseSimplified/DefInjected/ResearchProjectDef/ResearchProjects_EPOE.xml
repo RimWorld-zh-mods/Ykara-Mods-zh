@@ -31,10 +31,10 @@
   <!-- Tier 2.5 -->
 
   <AdvancedBionics.label>EPOE：先进仿生体</AdvancedBionics.label>
-  <AdvancedBionics.description>使用超钒升级普通的仿生体，使之更为优秀。</AdvancedBionics.description>
+  <AdvancedBionics.description>使用超钒升级普通的仿生体，使之更为优秀。解锁「升级工作站」。</AdvancedBionics.description>
 
   <SyntheticOrgans.label>EPOE：合成器官</SyntheticOrgans.label>
-  <SyntheticOrgans.description>进一步研究纳米技术，让你能够在升级工作站制作难以置信的精良人造器官。</SyntheticOrgans.description>
+  <SyntheticOrgans.description>进一步研究纳米技术，让你能够在升级工作站制作难以置信的精良人造器官。升级工作站解锁新配方</SyntheticOrgans.description>
 
   <BrainSurgery.label>EPOE：脑部手术</BrainSurgery.label>
   <BrainSurgery.description>让你能够对脑部施行手术。</BrainSurgery.description>

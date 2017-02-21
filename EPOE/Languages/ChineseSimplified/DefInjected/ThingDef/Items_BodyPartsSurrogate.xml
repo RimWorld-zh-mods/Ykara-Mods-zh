@@ -10,7 +10,7 @@
   <SurrogateLung.description>初级肺替代体。会发出低沉的喀喀噪音。</SurrogateLung.description>
 
   <SurrogateStomach.label>替代体胃</SurrogateStomach.label>
-  <SurrogateStomach.description>初级的胃替代体。</SurrogateStomach.description>
+  <SurrogateStomach.description>初级的胃替代体。会产生令人不快的难闻的肠气。</SurrogateStomach.description>
 
   <SurrogateLiver.label>替代体肝</SurrogateLiver.label>
   <SurrogateLiver.description>初级的血液过滤器。在维持血糖水平稳定方面有些问题。</SurrogateLiver.description>
@@ -19,7 +19,7 @@
   <SurrogateKidney.description>初级的肾替代体。可能的副作用之一是导致脸色苍白。</SurrogateKidney.description>
 
   <SurrogateHeart.label>替代体心</SurrogateHeart.label>
-  <SurrogateHeart.description>或多或少能维持血液循环。</SurrogateHeart.description>
+  <SurrogateHeart.description>或多或少能维持血液循环。患者时不时会感到疲惫。</SurrogateHeart.description>
 
 
 </LanguageData>

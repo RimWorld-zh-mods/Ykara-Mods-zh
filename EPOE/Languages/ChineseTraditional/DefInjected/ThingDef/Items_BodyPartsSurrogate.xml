@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Added body parts -->
@@ -10,7 +10,7 @@
   <SurrogateLung.description>初級肺替代體。會發出低沉的喀喀噪音。</SurrogateLung.description>
 
   <SurrogateStomach.label>替代體胃</SurrogateStomach.label>
-  <SurrogateStomach.description>初級的胃替代體。</SurrogateStomach.description>
+  <SurrogateStomach.description>初級的胃替代體。會產生令人不快的難聞的腸氣。</SurrogateStomach.description>
 
   <SurrogateLiver.label>替代體肝</SurrogateLiver.label>
   <SurrogateLiver.description>初級的血液過濾器。在維持血糖水平穩定方面有些問題。</SurrogateLiver.description>
@@ -19,7 +19,7 @@
   <SurrogateKidney.description>初級的腎替代體。可能的副作用之一是導致臉色蒼白。</SurrogateKidney.description>
 
   <SurrogateHeart.label>替代體心</SurrogateHeart.label>
-  <SurrogateHeart.description>或多或少能維持血液循環。</SurrogateHeart.description>
+  <SurrogateHeart.description>或多或少能維持血液循環。患者時不時會感到疲憊。</SurrogateHeart.description>
 
 
 </LanguageData>
