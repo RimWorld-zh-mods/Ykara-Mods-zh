@@ -4,11 +4,8 @@
 	<DoBillsTableSurrogates.verb>stelle her</DoBillsTableSurrogates.verb>
 	<DoBillsTableSurrogates.gerund>stellt her</DoBillsTableSurrogates.gerund>
 	
-	<DoBillsTableSynthetics.verb>stelle her</DoBillsTableSynthetics.verb>
-	<DoBillsTableSynthetics.gerund>stellt her</DoBillsTableSynthetics.gerund>
-	
-	<DoBillsUpgradingStation.verb>verbessere</DoBillsUpgradingStation.verb>
-	<DoBillsUpgradingStation.gerund>verbessert bionisches Körperteil</DoBillsUpgradingStation.gerund>
+	<DoBillsTableOrgans.verb>drucke aus</DoBillsTableOrgans.verb>
+	<DoBillsTableOrgans.gerund>druckt aus</DoBillsTableOrgans.gerund>
 	
 	<DoBillsSimpleProstheticWorkbench.verb>stelle her</DoBillsSimpleProstheticWorkbench.verb>
 	<DoBillsSimpleProstheticWorkbench.gerund>stellt her</DoBillsSimpleProstheticWorkbench.gerund>

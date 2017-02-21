@@ -15,7 +15,7 @@
 			</li>
 		</skillRequirements>
 		<recipeUsers>
-			<li>UpgradingStation</li>
+			<li>TableOrgans</li>
 		</recipeUsers>
 	</RecipeDef>
 
@@ -44,7 +44,7 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>AdvancedComponents</li>
+						<li>EnergizedComponents</li>
 					</thingDefs>
 				</filter>
 				<count>5</count>
@@ -54,7 +54,7 @@
 			<thingDefs>
 				<li>Gold</li>
 				<li>Plasteel</li>
-				<li>AdvancedComponents</li>
+				<li>EnergizedComponents</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>
@@ -87,7 +87,7 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>AdvancedComponents</li>
+						<li>EnergizedComponents</li>
 					</thingDefs>
 				</filter>
 				<count>5</count>
@@ -97,7 +97,7 @@
 			<thingDefs>
 				<li>Gold</li>
 				<li>Plasteel</li>
-				<li>AdvancedComponents</li>
+				<li>EnergizedComponents</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>
@@ -130,7 +130,7 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>AdvancedComponents</li>
+						<li>EnergizedComponents</li>
 					</thingDefs>
 				</filter>
 				<count>5</count>
@@ -140,7 +140,7 @@
 			<thingDefs>
 				<li>Gold</li>
 				<li>Plasteel</li>
-				<li>AdvancedComponents</li>
+				<li>EnergizedComponents</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>
@@ -151,7 +151,7 @@
 	<RecipeDef ParentName="RecipeSyntheticOrgan">
 		<defName>CreateSyntheticLung</defName>
 		<label>Create synthetic lung</label>
-		<description>Creates a synthetic lung from hyperweave, advanced components and their surrogate counterpart and advanced components.</description>
+		<description>Creates a synthetic lung from hyperweave, energized components and their surrogate counterpart.</description>
 		<jobString>Creating synthetic organ.</jobString>
 		<ingredients>
 			<li>
@@ -173,7 +173,7 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>AdvancedComponents</li>
+						<li>EnergizedComponents</li>
 					</thingDefs>
 				</filter>
 				<count>1</count>
@@ -183,7 +183,7 @@
 			<thingDefs>
 				<li>SurrogateLung</li>
 				<li>Hyperweave</li>
-				<li>AdvancedComponents</li>
+				<li>EnergizedComponents</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>
@@ -194,7 +194,7 @@
 	<RecipeDef ParentName="RecipeSyntheticOrgan">
 		<defName>CreateSyntheticStomach</defName>
 		<label>Create synthetic stomach</label>
-		<description>Creates a synthetic stomach from hyperweave, advanced components and their surrogate counterpart and advanced components.</description>
+		<description>Creates a synthetic stomach from hyperweave, energized components and their surrogate counterpart.</description>
 		<jobString>Creating synthetic organ.</jobString>
 		<ingredients>
 			<li>
@@ -211,12 +211,12 @@
 						<li>Hyperweave</li>
 					</thingDefs>
 				</filter>
-				<count>10</count>
+				<count>15</count>
 			</li>
 			<li>
 				<filter>
 					<thingDefs>
-						<li>AdvancedComponents</li>
+						<li>EnergizedComponents</li>
 					</thingDefs>
 				</filter>
 				<count>1</count>
@@ -226,7 +226,7 @@
 			<thingDefs>
 				<li>SurrogateStomach</li>
 				<li>Hyperweave</li>
-				<li>AdvancedComponents</li>
+				<li>EnergizedComponents</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>
@@ -237,7 +237,7 @@
 	<RecipeDef ParentName="RecipeSyntheticOrgan">
 		<defName>CreateSyntheticLiver</defName>
 		<label>Create synthetic liver</label>
-		<description>Creates a synthetic liver from hyperweave, advanced components and their surrogate counterpart and advanced components.</description>
+		<description>Creates a synthetic liver from hyperweave, energized components and their surrogate counterpart.</description>
 		<jobString>Creating synthetic organ.</jobString>
 		<ingredients>
 			<li>
@@ -254,12 +254,12 @@
 						<li>Hyperweave</li>
 					</thingDefs>
 				</filter>
-				<count>10</count>
+				<count>15</count>
 			</li>
 			<li>
 				<filter>
 					<thingDefs>
-						<li>AdvancedComponents</li>
+						<li>EnergizedComponents</li>
 					</thingDefs>
 				</filter>
 				<count>1</count>
@@ -269,7 +269,7 @@
 			<thingDefs>
 				<li>SurrogateLiver</li>
 				<li>Hyperweave</li>
-				<li>AdvancedComponents</li>
+				<li>EnergizedComponents</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>
@@ -280,7 +280,7 @@
 	<RecipeDef ParentName="RecipeSyntheticOrgan">
 		<defName>CreateSyntheticKidney</defName>
 		<label>Create synthetic kidney</label>
-		<description>Creates a synthetic kidney from hyperweave, advanced components and their surrogate counterpart.</description>
+		<description>Creates a synthetic kidney from hyperweave, energized components and their surrogate counterpart.</description>
 		<jobString>Creating synthetic organ.</jobString>
 		<ingredients>
 			<li>
@@ -297,12 +297,12 @@
 						<li>Hyperweave</li>
 					</thingDefs>
 				</filter>
-				<count>10</count>
+				<count>15</count>
 			</li>
 			<li>
 				<filter>
 					<thingDefs>
-						<li>AdvancedComponents</li>
+						<li>EnergizedComponents</li>
 					</thingDefs>
 				</filter>
 				<count>1</count>
@@ -312,7 +312,7 @@
 			<thingDefs>
 				<li>SurrogateKidney</li>
 				<li>Hyperweave</li>
-				<li>AdvancedComponents</li>
+				<li>EnergizedComponents</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>
@@ -323,7 +323,7 @@
 	<RecipeDef ParentName="RecipeSyntheticOrgan">
 		<defName>CreateSyntheticHeart</defName>
 		<label>Create synthetic heart</label>
-		<description>Creates an synthetic heart from hyperweave, advanced components and their surrogate counterpart and advanced components.</description>
+		<description>Creates an synthetic heart from hyperweave, energized components and their surrogate counterpart.</description>
 		<jobString>Creating synthetic organ.</jobString>
 		<ingredients>
 			<li>
@@ -345,7 +345,7 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>AdvancedComponents</li>
+						<li>EnergizedComponents</li>
 					</thingDefs>
 				</filter>
 				<count>1</count>
@@ -355,7 +355,7 @@
 			<thingDefs>
 				<li>SurrogateHeart</li>
 				<li>Hyperweave</li>
-				<li>AdvancedComponents</li>
+				<li>EnergizedComponents</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>
@@ -375,12 +375,12 @@
 						<li>Hyperweave</li>
 					</thingDefs>
 				</filter>
-				<count>10</count>
+				<count>15</count>
 			</li>
 			<li>
 				<filter>
 					<thingDefs>
-						<li>AdvancedComponents</li>
+						<li>EnergizedComponents</li>
 					</thingDefs>
 				</filter>
 				<count>2</count>
@@ -389,7 +389,7 @@
 		<fixedIngredientFilter>
 			<thingDefs>
 				<li>Hyperweave</li>
-				<li>AdvancedComponents</li>
+				<li>EnergizedComponents</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>

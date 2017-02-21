@@ -13,6 +13,9 @@
 				<minLevel>10</minLevel>
 			</li>
 		</skillRequirements>
+		<recipeUsers>
+			<li>TableBionics</li>
+		</recipeUsers>
 	</RecipeDef>
 
 	<RecipeDef ParentName="RecipeAdvancedProsthesis">
@@ -32,7 +35,7 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>AdvancedComponents</li>
+						<li>EnergizedComponents</li>
 					</thingDefs>
 				</filter>
 				<count>3</count>
@@ -41,7 +44,7 @@
 		<fixedIngredientFilter>
 			<thingDefs>
 				<li>BionicEye</li>
-				<li>AdvancedComponents</li>
+				<li>EnergizedComponents</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>
@@ -69,7 +72,7 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>AdvancedComponents</li>
+						<li>EnergizedComponents</li>
 					</thingDefs>
 				</filter>
 				<count>5</count>
@@ -78,7 +81,7 @@
 		<fixedIngredientFilter>
 			<thingDefs>
 				<li>PowerArm</li>
-				<li>AdvancedComponents</li>
+				<li>EnergizedComponents</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 	</RecipeDef>
@@ -103,7 +106,7 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>AdvancedComponents</li>
+						<li>EnergizedComponents</li>
 					</thingDefs>
 				</filter>
 				<count>5</count>
@@ -112,7 +115,7 @@
 		<fixedIngredientFilter>
 			<thingDefs>
 				<li>BionicArm</li>
-				<li>AdvancedComponents</li>
+				<li>EnergizedComponents</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 	</RecipeDef>
@@ -137,7 +140,7 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>AdvancedComponents</li>
+						<li>EnergizedComponents</li>
 					</thingDefs>
 				</filter>
 				<count>3</count>
@@ -146,7 +149,7 @@
 		<fixedIngredientFilter>
 			<thingDefs>
 				<li>BionicHand</li>
-				<li>AdvancedComponents</li>
+				<li>EnergizedComponents</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 	</RecipeDef>
@@ -171,7 +174,7 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>AdvancedComponents</li>
+						<li>EnergizedComponents</li>
 					</thingDefs>
 				</filter>
 				<count>3</count>
@@ -180,7 +183,7 @@
 		<fixedIngredientFilter>
 			<thingDefs>
 				<li>BionicFoot</li>
-				<li>AdvancedComponents</li>
+				<li>EnergizedComponents</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 	</RecipeDef>
@@ -205,7 +208,7 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>AdvancedComponents</li>
+						<li>EnergizedComponents</li>
 					</thingDefs>
 				</filter>
 				<count>5</count>
@@ -214,7 +217,7 @@
 		<fixedIngredientFilter>
 			<thingDefs>
 				<li>BionicLeg</li>
-				<li>AdvancedComponents</li>
+				<li>EnergizedComponents</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 	</RecipeDef>
@@ -236,7 +239,7 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>AdvancedComponents</li>
+						<li>EnergizedComponents</li>
 					</thingDefs>
 				</filter>
 				<count>3</count>
@@ -245,7 +248,7 @@
 		<fixedIngredientFilter>
 			<thingDefs>
 				<li>BionicJaw</li>
-				<li>AdvancedComponents</li>
+				<li>EnergizedComponents</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>
@@ -270,7 +273,7 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>AdvancedComponents</li>
+						<li>EnergizedComponents</li>
 					</thingDefs>
 				</filter>
 				<count>3</count>
@@ -279,7 +282,7 @@
 		<fixedIngredientFilter>
 			<thingDefs>
 				<li>BionicEar</li>
-				<li>AdvancedComponents</li>
+				<li>EnergizedComponents</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>
@@ -304,7 +307,7 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>AdvancedComponents</li>
+						<li>EnergizedComponents</li>
 					</thingDefs>
 				</filter>
 				<count>5</count>
@@ -313,7 +316,7 @@
 		<fixedIngredientFilter>
 			<thingDefs>
 				<li>BionicSpine</li>
-				<li>AdvancedComponents</li>
+				<li>EnergizedComponents</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>
@@ -338,7 +341,7 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>AdvancedComponents</li>
+						<li>EnergizedComponents</li>
 					</thingDefs>
 				</filter>
 				<count>3</count>
@@ -356,7 +359,7 @@
 			<thingDefs>
 				<li>ScytherBlade</li>
 				<li>Steel</li>
-				<li>AdvancedComponents</li>
+				<li>EnergizedComponents</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>
@@ -389,7 +392,7 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>AdvancedComponents</li>
+						<li>EnergizedComponents</li>
 					</thingDefs>
 				</filter>
 				<count>5</count> 
@@ -399,7 +402,7 @@
 			<thingDefs>
 				<li>Plasteel</li>
 				<li>Steel</li>
-				<li>AdvancedComponents</li>
+				<li>EnergizedComponents</li>
 			</thingDefs>
 		</fixedIngredientFilter>	
 		<products>

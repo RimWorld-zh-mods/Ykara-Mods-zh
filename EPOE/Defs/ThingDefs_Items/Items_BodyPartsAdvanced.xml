@@ -55,6 +55,7 @@
 		</graphicData>
 		<statBases>
 			<MarketValue>10000</MarketValue>
+			<Mass>5</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>AdvancedWeapon</li>
@@ -70,7 +71,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>5000</MarketValue>
+			<MarketValue>3000</MarketValue>
+			<Mass>3</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -86,7 +88,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>7000</MarketValue>
+			<MarketValue>5000</MarketValue>
+			<Mass>5</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -96,13 +99,14 @@
 	<ThingDef ParentName="Advanced">
 		<defName>AdvancedBionicLeg</defName>
 		<label>advanced bionic leg</label>
-		<description>Impressing technology allows the user to move around faster than ever.</description>
+		<description>Gotta go fast!</description>
 		<graphicData>
 			<texPath>Things/Item/BodyPart/ArtificialOrgan</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>7000</MarketValue>
+			<MarketValue>5000</MarketValue>
+			<Mass>8</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -118,7 +122,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>5000</MarketValue>
+			<MarketValue>2750</MarketValue>
+			<Mass>3</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -134,7 +139,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>3000</MarketValue>
+			<MarketValue>2750</MarketValue>
+			<Mass>0.3</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -144,13 +150,14 @@
 	<ThingDef ParentName="Advanced">
 		<defName>AdvancedBionicJaw</defName>
 		<label>advanced bionic jaw</label>
-		<description>The voice this jaw creates is so beautiful that even some mechanoids stop to listen to this sound.</description>
+		<description>The voice this jaw creates is so beautiful that even mechanoids stop by to listen.</description>
 		<graphicData>
 			<texPath>Things/Item/BodyPart/ArtificialOrgan</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>4000</MarketValue>
+			<MarketValue>3000</MarketValue>
+			<Mass>2</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -166,7 +173,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>6000</MarketValue>
+			<MarketValue>3000</MarketValue>
+			<Mass>0.3</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -182,7 +190,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>8000</MarketValue>
+			<MarketValue>5000</MarketValue>
+			<Mass>4</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -198,7 +207,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>10000</MarketValue>
+			<MarketValue>4500</MarketValue>
+			<Mass>7</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>

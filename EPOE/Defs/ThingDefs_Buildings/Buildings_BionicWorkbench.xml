@@ -13,14 +13,15 @@
          <drawSize>(3.5,1.5)</drawSize>
       </graphicData>
       <CostList>
-         <Steel>150</Steel>
+         <Steel>250</Steel>
+         <Plasteel>150</Plasteel>
          <Component>3</Component>
       </CostList>
       <AltitudeLayer>Building</AltitudeLayer>
       <fillPercent>0.5</fillPercent>
       <useHitPoints>True</useHitPoints>
       <statBases>
-         <WorkToMake>1500</WorkToMake>
+         <WorkToMake>1750</WorkToMake>
          <MaxHitPoints>200</MaxHitPoints>
          <Flammability>1.0</Flammability>
          <Cleanliness>-2</Cleanliness>

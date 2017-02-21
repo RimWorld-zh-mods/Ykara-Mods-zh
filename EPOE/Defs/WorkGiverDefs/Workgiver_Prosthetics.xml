@@ -3,38 +3,22 @@
 <WorkGivers>
 
    <WorkGiverDef>
-    <defName>DoBillsTableSurrogates</defName>
-	<label>Craft surrogate organs</label>
+    <defName>DoBillsTableOrgans</defName>
+	<label>Print organs</label>
     <giverClass>WorkGiver_DoBill</giverClass>
     <workType>Crafting</workType>
     <priorityInType>130</priorityInType>
     <fixedBillGiverDefs>
-	  <li>TableSurrogates</li>
+	  <li>TableOrgans</li>
 	</fixedBillGiverDefs>
-    <verb>create</verb>
-    <gerund>creating</gerund>
+    <verb>print</verb>
+    <gerund>printing</gerund>
     <requiredCapacities>
       <li>Manipulation</li>
     </requiredCapacities>
   </WorkGiverDef>
    
-   <WorkGiverDef>
-    <defName>DoBillsUpgradingStation</defName>
-	<label>Upgrade prostheses</label>
-    <giverClass>WorkGiver_DoBill</giverClass>
-    <workType>Crafting</workType>
-    <priorityInType>130</priorityInType>
-    <fixedBillGiverDefs>
-	  <li>UpgradingStation</li>
-	</fixedBillGiverDefs>
-    <verb>upgrade</verb>
-    <gerund>upgrading</gerund>
-    <requiredCapacities>
-      <li>Manipulation</li>
-    </requiredCapacities>
-  </WorkGiverDef>
-
-   <WorkGiverDef>
+  <WorkGiverDef>
     <defName>DoBillsSimpleProstheticWorkbench</defName>
 	<label>Craft simple prostheses</label>
     <giverClass>WorkGiver_DoBill</giverClass>

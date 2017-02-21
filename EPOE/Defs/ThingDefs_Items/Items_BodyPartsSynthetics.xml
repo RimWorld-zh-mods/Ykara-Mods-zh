@@ -21,7 +21,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>10000</MarketValue>
+			<MarketValue>4500</MarketValue>
+			<Mass>0.1</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -37,7 +38,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>2500</MarketValue>
+			<MarketValue>1750</MarketValue>
+			<Mass>2</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -53,7 +55,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>2000</MarketValue>
+			<MarketValue>1750</MarketValue>
+			<Mass>2</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -69,7 +72,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>2000</MarketValue>
+			<MarketValue>1750</MarketValue>
+			<Mass>2</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -85,7 +89,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>2000</MarketValue>
+			<MarketValue>1750</MarketValue>
+			<Mass>2</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -101,7 +106,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>3000</MarketValue>
+			<MarketValue>2000</MarketValue>
+			<Mass>2</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -131,7 +137,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>13000</MarketValue>
+			<MarketValue>4500</MarketValue>
+			<Mass>0.1</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
@@ -147,7 +154,8 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
-			<MarketValue>13000</MarketValue>
+			<MarketValue>4500</MarketValue>
+			<Mass>0.1</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Advanced</li>
