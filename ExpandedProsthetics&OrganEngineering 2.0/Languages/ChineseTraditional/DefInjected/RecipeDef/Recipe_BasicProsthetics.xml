@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <InstallSteelArm.label>安裝鐵臂</InstallSteelArm.label>
@@ -13,17 +13,17 @@
   <InstallHookHand.description>安裝勾手。</InstallHookHand.description>
   <InstallHookHand.jobString>正在安裝勾手。</InstallHookHand.jobString>
 
-  <!-- [Core] <InstallDenture.label>安裝義齒</InstallDenture.label>-->
-  <!-- [Core] <InstallDenture.description>安裝義齒。</InstallDenture.description>-->
-  <!-- [Core] <InstallDenture.jobString>正在安裝義齒。</InstallDenture.jobString>-->
+  <!--[Core] <InstallDenture.label>安裝義齒</InstallDenture.label>-->
+  <!--[Core] <InstallDenture.description>安裝義齒。</InstallDenture.description>-->
+  <!--[Core] <InstallDenture.jobString>正在安裝義齒。</InstallDenture.jobString>-->
 
   <InstallWoodenFoot.label>安裝木足</InstallWoodenFoot.label>
   <InstallWoodenFoot.description>安裝木足。</InstallWoodenFoot.description>
   <InstallWoodenFoot.jobString>正在安裝木足。</InstallWoodenFoot.jobString>
 
-  <!-- [Core] <InstallPegLeg.label>安裝木腿</InstallPegLeg.label>-->
-  <!-- [Core] <InstallPegLeg.description>安裝木腿。</InstallPegLeg.description>-->
-  <!-- [Core] <InstallPegLeg.jobString>正在安裝木腿。</InstallPegLeg.jobString>-->
+  <!--[Core] <InstallPegLeg.label>安裝腿部義肢</InstallPegLeg.label>-->
+  <!--[Core] <InstallPegLeg.description>安裝腿部義肢。</InstallPegLeg.description>-->
+  <!--[Core] <InstallPegLeg.jobString>正在安裝腿部義肢。</InstallPegLeg.jobString>-->
 
   <InstallEarBandage.label>安裝耳繃帶</InstallEarBandage.label>
   <InstallEarBandage.description>安裝耳繃帶。</InstallEarBandage.description>

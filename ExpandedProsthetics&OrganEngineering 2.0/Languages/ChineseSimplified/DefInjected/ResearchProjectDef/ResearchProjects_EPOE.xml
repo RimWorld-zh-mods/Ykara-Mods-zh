@@ -18,20 +18,20 @@
   <Bionics.label>EPOE：仿生体</Bionics.label>
   <Bionics.description>探索微型马达和电路的概念，更优秀的假体前景向你敞开。</Bionics.description>
 
-  <SurrogateOrgans.label>EPOE：替代体器官</SurrogateOrgans.label>
+  <SurrogateOrgans.label>EPOE：组织打印机</SurrogateOrgans.label>
   <SurrogateOrgans.description>获取更高级的医疗只是，制作简易替代体器官替换缺失的部件成为可能。</SurrogateOrgans.description>
 
   <RibReplacements.label>EPOE：肋骨替换</RibReplacements.label>
   <RibReplacements.description>探索微型药物释放器的概念，探讨将之内置于肋骨的方法。你现在可以制作和安装肋骨植入物了。</RibReplacements.description>
 
-  <VancidiumRefineryTech.label>EPOE：超钒与先进零部件</VancidiumRefineryTech.label>
-  <VancidiumRefineryTech.description>随机融合金属时，你发现了制作非常轻盈但坚硬的金属的方法，这可以用于制作更先进的假体。你现在可以在电熔炼器制作超钒，以及在零部件装配台制作先进零部件了！</VancidiumRefineryTech.description>
+  <EnergizedComponents.label>EPOE：充能零件</EnergizedComponents.label>
+  <EnergizedComponents.description>你可以在零部件装配台给零部件充能，这种零件可以驱动更复杂的假体。</EnergizedComponents.description>
 
 
   <!-- Tier 2.5 -->
 
   <AdvancedBionics.label>EPOE：先进仿生体</AdvancedBionics.label>
-  <AdvancedBionics.description>使用超钒升级普通的仿生体，使之更为优秀。</AdvancedBionics.description>
+  <AdvancedBionics.description>升级普通的仿生体，使之更为优秀。</AdvancedBionics.description>
 
   <SyntheticOrgans.label>EPOE：合成器官</SyntheticOrgans.label>
   <SyntheticOrgans.description>进一步研究纳米技术，让你能够在升级工作站制作难以置信的精良人造器官。</SyntheticOrgans.description>

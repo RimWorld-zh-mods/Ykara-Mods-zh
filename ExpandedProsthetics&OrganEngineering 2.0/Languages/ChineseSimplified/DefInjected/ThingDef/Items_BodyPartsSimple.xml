@@ -18,14 +18,17 @@
   <SimpleProstheticFoot.label>简易的假足</SimpleProstheticFoot.label>
   <SimpleProstheticFoot.description>用来代替缺失的脚，不是很舒服但是相当有效。</SimpleProstheticFoot.description>
 
-  <!-- [Core] <SimpleProstheticLeg.label>简易的假腿</SimpleProstheticLeg.label>-->
-  <!-- [Core] <SimpleProstheticLeg.description>用来替换缺失的腿的假肢，不是很舒服但是相当有效。</SimpleProstheticLeg.description>-->
+  <!--[Core] <SimpleProstheticLeg.label>简易的假腿</SimpleProstheticLeg.label>-->
+  <!--[Core] <SimpleProstheticLeg.description>用来替换缺失的腿的假肢，不是很舒服但是相当有效。</SimpleProstheticLeg.description>-->
 
-  <!-- [Core] <SimpleProstheticArm.label>简易的假臂</SimpleProstheticArm.label>-->
-  <!-- [Core] <SimpleProstheticArm.description>简易但耐用的假臂。</SimpleProstheticArm.description>-->
+  <!--[Core] <SimpleProstheticArm.label>简易的假臂</SimpleProstheticArm.label>-->
+  <!--[Core] <SimpleProstheticArm.description>简易但耐用的假臂。</SimpleProstheticArm.description>-->
 
   <ArtificialPelvis.label>人造骨盆</ArtificialPelvis.label>
   <ArtificialPelvis.description>用来代替缺失的骨盆。如果你不想在地上到处爬的话，还是非常有用的。</ArtificialPelvis.description>
+
+  <ArtificialClavicle.label>artificial clavicle</ArtificialClavicle.label>
+  <ArtificialClavicle.description>Replaces a missing clavicle. If you somehow manage to break yours.</ArtificialClavicle.description>
 
 
 </LanguageData>

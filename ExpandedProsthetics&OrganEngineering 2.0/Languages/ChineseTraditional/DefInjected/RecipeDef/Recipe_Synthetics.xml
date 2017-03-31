@@ -5,13 +5,13 @@
   <InstallAIChip.description>安裝AI芯片。</InstallAIChip.description>
   <InstallAIChip.jobString>正在安裝AI芯片。</InstallAIChip.jobString>
 
-  <!-- [Core] <InstallJoywire.label>安裝樂絲晶片</InstallJoywire.label>-->
-  <!-- [Core] <InstallJoywire.description>安裝樂絲晶片。</InstallJoywire.description>-->
-  <!-- [Core] <InstallJoywire.jobString>正在安裝樂絲晶片。</InstallJoywire.jobString>-->
+  <!--[Core] <InstallJoywire.label>安裝樂絲晶片</InstallJoywire.label>-->
+  <!--[Core] <InstallJoywire.description>安裝樂絲晶片。</InstallJoywire.description>-->
+  <!--[Core] <InstallJoywire.jobString>正在安裝樂絲晶片。</InstallJoywire.jobString>-->
 
-  <!-- [Core] <InstallPainstopper.label>安裝痛覺阻斷晶片</InstallPainstopper.label>-->
-  <!-- [Core] <InstallPainstopper.description>安裝痛覺阻斷晶片。</InstallPainstopper.description>-->
-  <!-- [Core] <InstallPainstopper.jobString>正在安裝痛覺阻斷晶片。</InstallPainstopper.jobString>-->
+  <!--[Core] <InstallPainstopper.label>安裝痛覺阻斷晶片</InstallPainstopper.label>-->
+  <!--[Core] <InstallPainstopper.description>安裝痛覺阻斷晶片。</InstallPainstopper.description>-->
+  <!--[Core] <InstallPainstopper.jobString>正在安裝痛覺阻斷晶片。</InstallPainstopper.jobString>-->
 
   <InstallSyntheticLung.label>安裝合成肺</InstallSyntheticLung.label>
   <InstallSyntheticLung.description>安裝合成肺。</InstallSyntheticLung.description>

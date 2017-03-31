@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Added body parts -->
@@ -24,20 +24,20 @@
   <BionicSpine.label>仿生脊椎</BionicSpine.label>
   <BionicSpine.description>這種輕便且引人注意的設備可以替代受損的脊椎。</BionicSpine.description>
 
-  <!-- [Core] <BionicEye.label>仿生眼</BionicEye.label>-->
-  <!-- [Core] <BionicEye.description>高端科技的產物，仿生眼不僅能完全替代自然眼睛的功能，還能賦予使用者超常的視力。</BionicEye.description>-->
+  <!--[Core] <BionicEye.label>仿生眼</BionicEye.label>-->
+  <!--[Core] <BionicEye.description>用來取代正常眼睛所有功能的高科技仿生眼，同時會賦予使用者看見超自然現象的能力。</BionicEye.description>-->
 
-  <!-- [Core] <BionicArm.label>仿生臂</BionicArm.label>-->
-  <!-- [Core] <BionicArm.description>最精密的手臂替代品之一，賦予使用者爆發出無與倫比的力量。</BionicArm.description>-->
+  <!--[Core] <BionicArm.label>仿生手臂</BionicArm.label>-->
+  <!--[Core] <BionicArm.description>以最先進的科技打造出的仿生手臂，給予它的使用者極致的力量。</BionicArm.description>-->
 
-  <!-- [Core] <BionicLeg.label>仿生腿</BionicLeg.label>-->
-  <!-- [Core] <BionicLeg.description>尖端科技製成的仿生腿，可以給使用者帶來極端的步行舒適度和力量。</BionicLeg.description>-->
+  <!--[Core] <BionicLeg.label>仿生腿</BionicLeg.label>-->
+  <!--[Core] <BionicLeg.description>仿生腿採用最頂尖的技術在行走上給它的主人極致的舒適度和強度。</BionicLeg.description>-->
 
-  <!-- [Core] <PowerClaw.label>動力爪</PowerClaw.label>-->
-  <!-- [Core] <PowerClaw.description>一種由三個致命利爪組成的強大的手部替代品。</PowerClaw.description>-->
+  <!--[Core] <PowerClaw.label>動力爪</PowerClaw.label>-->
+  <!--[Core] <PowerClaw.description>帶有三支致命利爪的強大手臂。</PowerClaw.description>-->
 
-  <!-- [Core] <ScytherBlade.label>鐮刀機械鎧</ScytherBlade.label>-->
-  <!-- [Core] <ScytherBlade.description>嵌有鐮刃的手部替代品。從機械飛螳上拆下來的。不是很舒服但確實是非常致命的近戰武器。</ScytherBlade.description>-->
+  <!--[Core] <ScytherBlade.label>鐮刀機械鎧</ScytherBlade.label>-->
+  <!--[Core] <ScytherBlade.description>用刀片取代手臂，並非非常舒適，但作為一個近戰武器是相當有效的。</ScytherBlade.description>-->
 
   <MedicalRib.label>醫療肋骨</MedicalRib.label>
   <MedicalRib.description>一根人造肋骨，內置小型的血液過濾器和抗生素釋放器，讓使用者的保持健康。</MedicalRib.description>

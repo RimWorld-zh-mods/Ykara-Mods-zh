@@ -3,13 +3,13 @@
 
   <!-- Vanilla -->
 
-  <!-- [Core] <InstallSimpleProstheticLeg.label>安装简易的假腿</InstallSimpleProstheticLeg.label>-->
-  <!-- [Core] <InstallSimpleProstheticLeg.description>安装简易的假腿。</InstallSimpleProstheticLeg.description>-->
-  <!-- [Core] <InstallSimpleProstheticLeg.jobString>正在安装简易的假腿。</InstallSimpleProstheticLeg.jobString>-->
+  <!--[Core] <InstallSimpleProstheticLeg.label>安装简易的假腿</InstallSimpleProstheticLeg.label>-->
+  <!--[Core] <InstallSimpleProstheticLeg.description>安装简易的假腿。</InstallSimpleProstheticLeg.description>-->
+  <!--[Core] <InstallSimpleProstheticLeg.jobString>正在安装简易的假腿。</InstallSimpleProstheticLeg.jobString>-->
 
-  <!-- [Core] <InstallSimpleProstheticArm.label>安装简易的假臂</InstallSimpleProstheticArm.label>-->
-  <!-- [Core] <InstallSimpleProstheticArm.description>安装简易的假臂。</InstallSimpleProstheticArm.description>-->
-  <!-- [Core] <InstallSimpleProstheticArm.jobString>正在安装简易的假臂。</InstallSimpleProstheticArm.jobString>-->
+  <!--[Core] <InstallSimpleProstheticArm.label>安装简易的假臂</InstallSimpleProstheticArm.label>-->
+  <!--[Core] <InstallSimpleProstheticArm.description>安装简易的假臂。</InstallSimpleProstheticArm.description>-->
+  <!--[Core] <InstallSimpleProstheticArm.jobString>正在安装简易的假臂。</InstallSimpleProstheticArm.jobString>-->
 
 
   <!-- Mod -->
@@ -23,7 +23,7 @@
   <InstallSimpleProstheticHand.jobString>正在安装简易的假手。</InstallSimpleProstheticHand.jobString>
 
   <InstallSimpleProstheticFoot.label>安装简易的假足</InstallSimpleProstheticFoot.label>
-  <InstallSimpleProstheticFoot.description>安装a 简易的假足。</InstallSimpleProstheticFoot.description>
+  <InstallSimpleProstheticFoot.description>安装a简易的假足。</InstallSimpleProstheticFoot.description>
   <InstallSimpleProstheticFoot.jobString>正在安装简易的假足。</InstallSimpleProstheticFoot.jobString>
 
   <InstallArtificialNose.label>安装人造鼻</InstallArtificialNose.label>

@@ -10,17 +10,17 @@
   <Stomach.label>胃</Stomach.label>
   <Stomach.description>消化食物并转化成能量和营养。</Stomach.description>
 
-  <!-- [Core] <Heart.label>心脏</Heart.label>-->
-  <!-- [Core] <Heart.description>负责将血液和氧气供给到身体的各个位置。待候新的主人。</Heart.description>-->
+  <!--[Core] <Heart.label>心脏</Heart.label>-->
+  <!--[Core] <Heart.description>负责将血液和氧气供给到身体的各个位置。待候新的主人。</Heart.description>-->
 
-  <!-- [Core] <Liver.label>肝</Liver.label>-->
-  <!-- [Core] <Liver.description>在新陈代谢扮演重要的角色。</Liver.description>-->
+  <!--[Core] <Liver.label>肝</Liver.label>-->
+  <!--[Core] <Liver.description>在新陈代谢扮演重要的角色。</Liver.description>-->
 
-  <!-- [Core] <Lung.label>肺</Lung.label>-->
-  <!-- [Core] <Lung.description>呼吸系统的重要组成部分。</Lung.description>-->
+  <!--[Core] <Lung.label>肺</Lung.label>-->
+  <!--[Core] <Lung.description>呼吸系统的重要组成部分。</Lung.description>-->
 
-  <!-- [Core] <Kidney.label>肾</Kidney.label>-->
-  <!-- [Core] <Kidney.description>过滤并移除血液中的废物。</Kidney.description>-->
+  <!--[Core] <Kidney.label>肾</Kidney.label>-->
+  <!--[Core] <Kidney.description>过滤并移除血液中的废物。</Kidney.description>-->
 
   <Eye.label>眼球</Eye.label>
   <Eye.description>感受到光线，让人们知道他们周围有什么。</Eye.description>

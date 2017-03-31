@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Vanilla -->
 
-  <!-- [Core] <InstallSimpleProstheticLeg.label>安裝簡易的假腿</InstallSimpleProstheticLeg.label>-->
-  <!-- [Core] <InstallSimpleProstheticLeg.description>安裝簡易的假腿。</InstallSimpleProstheticLeg.description>-->
-  <!-- [Core] <InstallSimpleProstheticLeg.jobString>正在安裝簡易的假腿。</InstallSimpleProstheticLeg.jobString>-->
+  <!--[Core] <InstallSimpleProstheticLeg.label>安裝簡單腿部義肢</InstallSimpleProstheticLeg.label>-->
+  <!--[Core] <InstallSimpleProstheticLeg.description>安裝簡單腿部義肢。</InstallSimpleProstheticLeg.description>-->
+  <!--[Core] <InstallSimpleProstheticLeg.jobString>正在安裝簡單腿部義肢。</InstallSimpleProstheticLeg.jobString>-->
 
-  <!-- [Core] <InstallSimpleProstheticArm.label>安裝簡易的假臂</InstallSimpleProstheticArm.label>-->
-  <!-- [Core] <InstallSimpleProstheticArm.description>安裝簡易的假臂。</InstallSimpleProstheticArm.description>-->
-  <!-- [Core] <InstallSimpleProstheticArm.jobString>正在安裝簡易的假臂。</InstallSimpleProstheticArm.jobString>-->
+  <!--[Core] <InstallSimpleProstheticArm.label>安裝簡單手臂義肢</InstallSimpleProstheticArm.label>-->
+  <!--[Core] <InstallSimpleProstheticArm.description>安裝簡單手臂義肢。</InstallSimpleProstheticArm.description>-->
+  <!--[Core] <InstallSimpleProstheticArm.jobString>正在安裝簡單手臂義肢。</InstallSimpleProstheticArm.jobString>-->
 
 
   <!-- Mod -->
@@ -19,7 +19,7 @@
   <InstallGoldenEye.jobString>正在安裝黃金眼。</InstallGoldenEye.jobString>
 
   <InstallSimpleProstheticHand.label>安裝簡易的假手</InstallSimpleProstheticHand.label>
-  <InstallSimpleProstheticHand.description>安裝a 簡易的假手。</InstallSimpleProstheticHand.description>
+  <InstallSimpleProstheticHand.description>安裝簡易的假手。</InstallSimpleProstheticHand.description>
   <InstallSimpleProstheticHand.jobString>正在安裝簡易的假手。</InstallSimpleProstheticHand.jobString>
 
   <InstallSimpleProstheticFoot.label>安裝簡易的假足</InstallSimpleProstheticFoot.label>

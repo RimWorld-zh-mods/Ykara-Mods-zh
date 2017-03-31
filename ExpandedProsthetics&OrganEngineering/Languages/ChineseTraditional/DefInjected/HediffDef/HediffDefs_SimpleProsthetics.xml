@@ -6,14 +6,12 @@
   <GoldenEye.label>黃金眼</GoldenEye.label>
   <SimpleProstheticHand.label>簡易的假手</SimpleProstheticHand.label>
   <SimpleProstheticFoot.label>簡易的假足</SimpleProstheticFoot.label>
-  <!--[Core] <SimpleProstheticArm.label>simple prosthetic arm</SimpleProstheticArm.label>-->
-  <!--[Core] <SimpleProstheticLeg.label>simple prosthetic leg</SimpleProstheticLeg.label>-->
+  <!--[Core] <SimpleProstheticArm.label>手臂義肢</SimpleProstheticArm.label>-->
+  <!--[Core] <SimpleProstheticLeg.label>腿部義肢</SimpleProstheticLeg.label>-->
   <ArtificialNose.label>人造鼻</ArtificialNose.label>
   <HydraulicJaw.label>液壓頜</HydraulicJaw.label>
   <ArtificialPelvis.label>人造骨盆</ArtificialPelvis.label>
+  <ArtificialClavicle.label>人造鎖骨</ArtificialClavicle.label>
 
-
-  <!-- [Core] <SimpleProstheticArm.label>簡易的假臂</SimpleProstheticArm.label>-->
-  <!-- [Core] <SimpleProstheticLeg.label>簡易的假腿</SimpleProstheticLeg.label>-->
 
 </LanguageData>

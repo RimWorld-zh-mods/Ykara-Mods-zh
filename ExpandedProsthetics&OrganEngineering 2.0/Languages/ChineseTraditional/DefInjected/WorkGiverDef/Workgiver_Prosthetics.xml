@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DoBillsTableSurrogates.label>製作替代體器官</DoBillsTableSurrogates.label>
-  <DoBillsTableSurrogates.verb>製作</DoBillsTableSurrogates.verb>
-  <DoBillsTableSurrogates.gerund>製作</DoBillsTableSurrogates.gerund>
-
-  <DoBillsUpgradingStation.label>升級假體</DoBillsUpgradingStation.label>
-  <DoBillsUpgradingStation.verb>升級</DoBillsUpgradingStation.verb>
-  <DoBillsUpgradingStation.gerund>升級</DoBillsUpgradingStation.gerund>
+  <DoBillsTableOrgans.label>印列器官</DoBillsTableOrgans.label>
+  <DoBillsTableOrgans.verb>印列</DoBillsTableOrgans.verb>
+  <DoBillsTableOrgans.gerund>印列</DoBillsTableOrgans.gerund>
 
   <DoBillsSimpleProstheticWorkbench.label>製作簡單假體</DoBillsSimpleProstheticWorkbench.label>
   <DoBillsSimpleProstheticWorkbench.verb>組裝</DoBillsSimpleProstheticWorkbench.verb>

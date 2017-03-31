@@ -3,13 +3,13 @@
 
   <!-- Vanilla -->
 
-  <!--[Core] <InstallSimpleProstheticLeg.label>install simple prosthetic leg</InstallSimpleProstheticLeg.label>-->
-  <!--[Core] <InstallSimpleProstheticLeg.description>Installs simple prosthetic leg.</InstallSimpleProstheticLeg.description>-->
-  <!--[Core] <InstallSimpleProstheticLeg.jobString>Installing simple prosthetic leg.</InstallSimpleProstheticLeg.jobString>-->
+  <!--[Core] <InstallSimpleProstheticLeg.label>安装简易的假腿</InstallSimpleProstheticLeg.label>-->
+  <!--[Core] <InstallSimpleProstheticLeg.description>安装简易的假腿。</InstallSimpleProstheticLeg.description>-->
+  <!--[Core] <InstallSimpleProstheticLeg.jobString>正在安装简易的假腿。</InstallSimpleProstheticLeg.jobString>-->
 
-  <!--[Core] <InstallSimpleProstheticArm.label>install simple prosthetic arm</InstallSimpleProstheticArm.label>-->
-  <!--[Core] <InstallSimpleProstheticArm.description>Installs simple prosthetic arm.</InstallSimpleProstheticArm.description>-->
-  <!--[Core] <InstallSimpleProstheticArm.jobString>Installing simple prosthetic arm.</InstallSimpleProstheticArm.jobString>-->
+  <!--[Core] <InstallSimpleProstheticArm.label>安装简易的假臂</InstallSimpleProstheticArm.label>-->
+  <!--[Core] <InstallSimpleProstheticArm.description>安装简易的假臂。</InstallSimpleProstheticArm.description>-->
+  <!--[Core] <InstallSimpleProstheticArm.jobString>正在安装简易的假臂。</InstallSimpleProstheticArm.jobString>-->
 
 
   <!-- Mod -->
@@ -38,12 +38,9 @@
   <InstallArtificialPelvis.description>安装人造骨盆。</InstallArtificialPelvis.description>
   <InstallArtificialPelvis.jobString>正在安装人造骨盆。</InstallArtificialPelvis.jobString>
 
+  <InstallArtificialClavicle.label>安装人造锁骨</InstallArtificialClavicle.label>
+  <InstallArtificialClavicle.description>安装人造锁骨。</InstallArtificialClavicle.description>
+  <InstallArtificialClavicle.jobString>正在安装人造锁骨。</InstallArtificialClavicle.jobString>
 
-  <!-- [Core] <InstallSimpleProstheticLeg.label>安装简易的假腿</InstallSimpleProstheticLeg.label>-->
-  <!-- [Core] <InstallSimpleProstheticLeg.description>安装简易的假腿。</InstallSimpleProstheticLeg.description>-->
-  <!-- [Core] <InstallSimpleProstheticLeg.jobString>正在安装简易的假腿。</InstallSimpleProstheticLeg.jobString>-->
-  <!-- [Core] <InstallSimpleProstheticArm.label>安装简易的假臂</InstallSimpleProstheticArm.label>-->
-  <!-- [Core] <InstallSimpleProstheticArm.description>安装简易的假臂。</InstallSimpleProstheticArm.description>-->
-  <!-- [Core] <InstallSimpleProstheticArm.jobString>正在安装简易的假臂。</InstallSimpleProstheticArm.jobString>-->
 
 </LanguageData>

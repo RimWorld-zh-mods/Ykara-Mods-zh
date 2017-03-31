@@ -2,7 +2,7 @@
 <LanguageData>
 
   <TableSurrogates.label>替代體器官工作台</TableSurrogates.label>
-  <TableSurrogates.description>一個簡易的工作站，用於生成簡易的替代體器官。</TableSurrogates.description>
+  <TableSurrogates.Description>一個簡易的工作站，用於生成簡易的替代體器官。</TableSurrogates.Description>
   <TableSurrogates_Blueprint.label>替代體器官工作台（藍圖）</TableSurrogates_Blueprint.label>
   <TableSurrogates_Frame.label>替代體器官工作台（建造中）</TableSurrogates_Frame.label>
 

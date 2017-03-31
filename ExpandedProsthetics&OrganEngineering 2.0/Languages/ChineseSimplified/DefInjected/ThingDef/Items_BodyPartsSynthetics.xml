@@ -24,11 +24,11 @@
   <SyntheticSkin.label>合成皮肤</SyntheticSkin.label>
   <SyntheticSkin.description>一小片看起来很有趣的类皮肤材料。感觉就像真的皮肤一样。</SyntheticSkin.description>
 
-  <!-- [Core] <Joywire.label>乐丝芯片</Joywire.label>-->
-  <!-- [Core] <Joywire.description>这个小小的大脑植入体会让你感到愉悦和放松。</Joywire.description>-->
+  <!--[Core] <Joywire.label>乐丝芯片</Joywire.label>-->
+  <!--[Core] <Joywire.description>这个小小的大脑植入体会让你感到愉悦和放松。</Joywire.description>-->
 
-  <!-- [Core] <Painstopper.label>止痛芯片</Painstopper.label>-->
-  <!-- [Core] <Painstopper.description>这种大脑植入体会让你感觉不到疼痛。</Painstopper.description>-->
+  <!--[Core] <Painstopper.label>止痛芯片</Painstopper.label>-->
+  <!--[Core] <Painstopper.description>这种大脑植入体会让你感觉不到疼痛。</Painstopper.description>-->
 
 
 </LanguageData>

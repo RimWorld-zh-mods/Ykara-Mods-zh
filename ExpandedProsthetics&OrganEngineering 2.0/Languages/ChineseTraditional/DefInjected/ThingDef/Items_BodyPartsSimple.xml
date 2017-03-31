@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Added body parts -->
@@ -18,14 +18,17 @@
   <SimpleProstheticFoot.label>簡易的假足</SimpleProstheticFoot.label>
   <SimpleProstheticFoot.description>用來代替缺失的腳，不是很舒服但是相當有效。</SimpleProstheticFoot.description>
 
-  <!-- [Core] <SimpleProstheticLeg.label>簡易的假腿</SimpleProstheticLeg.label>-->
-  <!-- [Core] <SimpleProstheticLeg.description>用來替換缺失的腿的假肢，不是很舒服但是相當有效。</SimpleProstheticLeg.description>-->
+  <!--[Core] <SimpleProstheticLeg.label>簡單腿部義肢</SimpleProstheticLeg.label>-->
+  <!--[Core] <SimpleProstheticLeg.description>用來取代失去的腿部的義肢，穿戴起來並不是非常舒適，但工作上擁有不錯的效率。</SimpleProstheticLeg.description>-->
 
-  <!-- [Core] <SimpleProstheticArm.label>簡易的假臂</SimpleProstheticArm.label>-->
-  <!-- [Core] <SimpleProstheticArm.description>簡易但耐用的假臂。</SimpleProstheticArm.description>-->
+  <!--[Core] <SimpleProstheticArm.label>簡單手臂義肢</SimpleProstheticArm.label>-->
+  <!--[Core] <SimpleProstheticArm.description>簡單而耐用的手臂義肢。</SimpleProstheticArm.description>-->
 
   <ArtificialPelvis.label>人造骨盆</ArtificialPelvis.label>
   <ArtificialPelvis.description>用來代替缺失的骨盆。如果你不想在地上到處爬的話，還是非常有用的。</ArtificialPelvis.description>
+
+  <ArtificialClavicle.label>artificial clavicle</ArtificialClavicle.label>
+  <ArtificialClavicle.description>Replaces a missing clavicle. If you somehow manage to break yours.</ArtificialClavicle.description>
 
 
 </LanguageData>
