@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UpgradingStation.label>upgrading station</UpgradingStation.label>
+  <UpgradingStation.Description>A workbench equipped for the production of advanced bionics and synthetic organs.</UpgradingStation.Description>
+  <UpgradingStation_Blueprint.label>upgrading station (blueprint)</UpgradingStation_Blueprint.label>
+  <UpgradingStation_Frame.label>upgrading station (building)</UpgradingStation_Frame.label>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <BrainStimulator.label>brain stimulator</BrainStimulator.label>
+  <SurrogateLung.label>surrogate lung</SurrogateLung.label>
+  <SurrogateStomach.label>surrogate stomach</SurrogateStomach.label>
+  <SurrogateLiver.label>surrogate liver</SurrogateLiver.label>
+  <SurrogateKidney.label>surrogate kidney</SurrogateKidney.label>
+  <SurrogateHeart.label>surrogate heart</SurrogateHeart.label>
+
+
+</LanguageData>

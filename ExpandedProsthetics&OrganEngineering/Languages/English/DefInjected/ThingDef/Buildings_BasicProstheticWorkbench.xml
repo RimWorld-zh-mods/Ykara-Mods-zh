@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TableBasicProsthetic.label>basic prosthetics workbench</TableBasicProsthetic.label>
+  <TableBasicProsthetic.Description>A workbench equipped for production of very simple prostheses.</TableBasicProsthetic.Description>
+  <TableBasicProsthetic_Blueprint.label>basic prosthetics workbench (blueprint)</TableBasicProsthetic_Blueprint.label>
+  <TableBasicProsthetic_Frame.label>basic prosthetics workbench (building)</TableBasicProsthetic_Frame.label>
+
+
+</LanguageData>

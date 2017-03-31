@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TableOrgans.label>tissue printer</TableOrgans.label>
+  <TableOrgans.Description>A workstation, equipped with a 3D printer to craft organs.</TableOrgans.Description>
+  <TableOrgans_Blueprint.label>tissue printer (blueprint)</TableOrgans_Blueprint.label>
+  <TableOrgans_Frame.label>tissue printer (building)</TableOrgans_Frame.label>
+
+
+</LanguageData>

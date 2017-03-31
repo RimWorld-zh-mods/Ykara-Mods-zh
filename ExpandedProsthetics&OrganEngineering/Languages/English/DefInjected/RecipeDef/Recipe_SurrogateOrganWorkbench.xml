@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CreateBrainStimulator.label>craft brain stimulator</CreateBrainStimulator.label>
+  <CreateBrainStimulator.description>Creates a simple brain stimulator from components, plasteel and cloth.</CreateBrainStimulator.description>
+  <CreateBrainStimulator.jobString>Creating surrogate organ.</CreateBrainStimulator.jobString>
+
+  <CreateSurrogateLung.label>Create surrogate lung</CreateSurrogateLung.label>
+  <CreateSurrogateLung.description>Creates a surrogate lung from cloth, plasteel and components.</CreateSurrogateLung.description>
+  <CreateSurrogateLung.jobString>Creating surrogate organ.</CreateSurrogateLung.jobString>
+
+  <CreateSurrogateStomach.label>Create surrogate stomach</CreateSurrogateStomach.label>
+  <CreateSurrogateStomach.description>Creates a surrogate stomach from cloth, plasteel and components.</CreateSurrogateStomach.description>
+  <CreateSurrogateStomach.jobString>Creating surrogate organ.</CreateSurrogateStomach.jobString>
+
+  <CreateSurrogateLiver.label>Create surrogate liver</CreateSurrogateLiver.label>
+  <CreateSurrogateLiver.description>Creates a surrogate liver from cloth, plasteel and components.</CreateSurrogateLiver.description>
+  <CreateSurrogateLiver.jobString>Creating surrogate organ.</CreateSurrogateLiver.jobString>
+
+  <CreateSurrogateKidney.label>Create surrogate kidney</CreateSurrogateKidney.label>
+  <CreateSurrogateKidney.description>Creates a surrogate kidney from cloth, plasteel and components.</CreateSurrogateKidney.description>
+  <CreateSurrogateKidney.jobString>Creating surrogate organ.</CreateSurrogateKidney.jobString>
+
+  <CreateSurrogateHeart.label>Create surrogate heart</CreateSurrogateHeart.label>
+  <CreateSurrogateHeart.description>Creates a surrogate heart from cloth, plasteel and components.</CreateSurrogateHeart.description>
+  <CreateSurrogateHeart.jobString>Creating surrogate organ.</CreateSurrogateHeart.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bionics Below -->
+
+  <InstallPowerArm.label>install power arm</InstallPowerArm.label>
+  <InstallPowerArm.description>Installs power arm.</InstallPowerArm.description>
+  <InstallPowerArm.jobString>Installing power arm.</InstallPowerArm.jobString>
+
+  <InstallBionicHand.label>install bionic hand</InstallBionicHand.label>
+  <InstallBionicHand.description>Installs bionic hand.</InstallBionicHand.description>
+  <InstallBionicHand.jobString>Installing bionic hand.</InstallBionicHand.jobString>
+
+  <InstallBionicFoot.label>install bionic foot</InstallBionicFoot.label>
+  <InstallBionicFoot.description>Installs bionic foot.</InstallBionicFoot.description>
+  <InstallBionicFoot.jobString>Installing bionic foot.</InstallBionicFoot.jobString>
+
+  <InstallBionicEar.label>install bionic ear implant</InstallBionicEar.label>
+  <InstallBionicEar.description>Installs a bionic ear implant.</InstallBionicEar.description>
+  <InstallBionicEar.jobString>Installing a bionic ear implant.</InstallBionicEar.jobString>
+
+  <InstallBionicJaw.label>install bionic jaw implant</InstallBionicJaw.label>
+  <InstallBionicJaw.description>Installs a bionic jaw implant.</InstallBionicJaw.description>
+  <InstallBionicJaw.jobString>Installing a bionic jaw implant.</InstallBionicJaw.jobString>
+
+  <InstallSilentJaw.label>install silent jaw implant</InstallSilentJaw.label>
+  <InstallSilentJaw.description>Installs a silent jaw implant.</InstallSilentJaw.description>
+  <InstallSilentJaw.jobString>Installing a silent jaw implant.</InstallSilentJaw.jobString>
+
+  <InstallBionicSpine.label>install bionic spine</InstallBionicSpine.label>
+  <InstallBionicSpine.description>Installs a bionic spine.</InstallBionicSpine.description>
+  <InstallBionicSpine.jobString>Installing a bionic spine.</InstallBionicSpine.jobString>
+
+  <InstallMedicalRib.label>install medical rib replacement</InstallMedicalRib.label>
+  <InstallMedicalRib.description>Installs a medical rib replacement.</InstallMedicalRib.description>
+  <InstallMedicalRib.jobString>Installing a medical rib replacement.</InstallMedicalRib.jobString>
+
+  <InstallDruggedRib.label>install drugged rib</InstallDruggedRib.label>
+  <InstallDruggedRib.description>Installs a drugged rib.</InstallDruggedRib.description>
+  <InstallDruggedRib.jobString>Installing a drugged rib.</InstallDruggedRib.jobString>
+
+  <InstallAdrenalineRib.label>install adrenaline rib</InstallAdrenalineRib.label>
+  <InstallAdrenalineRib.description>Installs an adrenaline rib.</InstallAdrenalineRib.description>
+  <InstallAdrenalineRib.jobString>Installing an adrenaline rib.</InstallAdrenalineRib.jobString>
+
+  <InstallPainkillerRib.label>install painkiller rib</InstallPainkillerRib.label>
+  <InstallPainkillerRib.description>Installs a painkiller rib.</InstallPainkillerRib.description>
+  <InstallPainkillerRib.jobString>Installing a painkiller rib.</InstallPainkillerRib.jobString>
+
+
+</LanguageData>

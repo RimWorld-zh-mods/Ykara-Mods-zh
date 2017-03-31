@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <GoldenEye.label>golden eye</GoldenEye.label>
+  <GoldenEye.description>Replaces missing eyes. So incredibly beautiful that it's a shame you can't see yourself in the mirror.</GoldenEye.description>
+
+  <ArtificialNose.label>artificial nose</ArtificialNose.label>
+  <ArtificialNose.description>Replaces a missing nose. Covers the hole in the face.</ArtificialNose.description>
+
+  <HydraulicJaw.label>hydraulic jaw</HydraulicJaw.label>
+  <HydraulicJaw.description>Replaces a missing jaw. Be careful with the extremely efficient teeth!</HydraulicJaw.description>
+
+  <SimpleProstheticHand.label>simple prosthetic hand</SimpleProstheticHand.label>
+  <SimpleProstheticHand.description>Replaces missing hands. Way more comfortable and less frightening than the hook hand.</SimpleProstheticHand.description>
+
+  <SimpleProstheticFoot.label>simple prosthetic foot</SimpleProstheticFoot.label>
+  <SimpleProstheticFoot.description>Replaces missing feet. Not as cheap as a wood log.</SimpleProstheticFoot.description>
+
+  <!--[Core] <SimpleProstheticLeg.label>simple prosthetic leg</SimpleProstheticLeg.label>-->
+  <!--[Core] <SimpleProstheticLeg.description>Simple prosthesis made to replace missing leg. Not very comfortable but quite efficient.</SimpleProstheticLeg.description>-->
+
+  <!--[Core] <SimpleProstheticArm.label>simple prosthetic arm</SimpleProstheticArm.label>-->
+  <!--[Core] <SimpleProstheticArm.description>Simple but durable arm prosthesis.</SimpleProstheticArm.description>-->
+
+  <ArtificialPelvis.label>artificial pelvis</ArtificialPelvis.label>
+  <ArtificialPelvis.description>Replaces a missing pelvis. Pretty useful if crawling is not your favourite way of moving around.</ArtificialPelvis.description>
+
+  <ArtificialClavicle.label>artificial clavicle</ArtificialClavicle.label>
+  <ArtificialClavicle.description>Replaces a missing clavicle. If you somehow manage to break yours.</ArtificialClavicle.description>
+
+
+</LanguageData>

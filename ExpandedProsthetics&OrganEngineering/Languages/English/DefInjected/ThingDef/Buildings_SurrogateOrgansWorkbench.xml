@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TableSurrogates.label>surrogate organ workbench</TableSurrogates.label>
+  <TableSurrogates.Description>A simple workstation, equipped to craft simple surrogate organs.</TableSurrogates.Description>
+  <TableSurrogates_Blueprint.label>surrogate organ workbench (blueprint)</TableSurrogates_Blueprint.label>
+  <TableSurrogates_Frame.label>surrogate organ workbench (building)</TableSurrogates_Frame.label>
+
+
+</LanguageData>

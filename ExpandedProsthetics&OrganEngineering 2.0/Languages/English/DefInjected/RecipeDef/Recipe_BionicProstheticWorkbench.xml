@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CreateBionicEye.label>Craft bionic eye</CreateBionicEye.label>
+  <CreateBionicEye.description>Crafts a bionic eye from plasteel.</CreateBionicEye.description>
+  <CreateBionicEye.jobString>Crafting bionic.</CreateBionicEye.jobString>
+
+  <CreatePowerArm.label>craft power arm</CreatePowerArm.label>
+  <CreatePowerArm.description>Attaching a power claw to a bionic arm is not as easy as it sounds. But damn is it awesome!</CreatePowerArm.description>
+  <CreatePowerArm.jobString>Crafting bionic.</CreatePowerArm.jobString>
+
+  <CreateBionicArm.label>Craft bionic arm</CreateBionicArm.label>
+  <CreateBionicArm.description>Upgrades a simple prosthetic arm using plasteel and components.</CreateBionicArm.description>
+  <CreateBionicArm.jobString>Crafting bionic.</CreateBionicArm.jobString>
+
+  <CreateBionicHand.label>Craft bionic hand</CreateBionicHand.label>
+  <CreateBionicHand.description>Upgrades a simple prosthetic hand using plasteel and components.</CreateBionicHand.description>
+  <CreateBionicHand.jobString>Crafting bionic.</CreateBionicHand.jobString>
+
+  <CreateBionicFoot.label>Craft bionic foot</CreateBionicFoot.label>
+  <CreateBionicFoot.description>Upgrades a simple prosthetic foot using plasteel and components.</CreateBionicFoot.description>
+  <CreateBionicFoot.jobString>Crafting bionic.</CreateBionicFoot.jobString>
+
+  <CreateBionicLeg.label>Craft bionic leg</CreateBionicLeg.label>
+  <CreateBionicLeg.description>Upgrades a simple prosthetic leg using plasteel and components.</CreateBionicLeg.description>
+  <CreateBionicLeg.jobString>Crafting bionic.</CreateBionicLeg.jobString>
+
+  <CreateBionicEar.label>Craft bionic ear</CreateBionicEar.label>
+  <CreateBionicEar.description>Crafts a bionic ear from plasteel.</CreateBionicEar.description>
+  <CreateBionicEar.jobString>Crafting bionic.</CreateBionicEar.jobString>
+
+  <CreateBionicJaw.label>Craft bionic jaw</CreateBionicJaw.label>
+  <CreateBionicJaw.description>Crafts a bionic jaw from steel and plasteel.</CreateBionicJaw.description>
+  <CreateBionicJaw.jobString>Crafting bionic.</CreateBionicJaw.jobString>
+
+  <CreateSilentJaw.label>Craft silent jaw</CreateSilentJaw.label>
+  <CreateSilentJaw.description>Crafts a silent jaw from steel and plasteel.</CreateSilentJaw.description>
+  <CreateSilentJaw.jobString>Crafting bionic.</CreateSilentJaw.jobString>
+
+  <CreateBionicSpine.label>Craft bionic spine</CreateBionicSpine.label>
+  <CreateBionicSpine.description>Crafts a bionic spine from steel and plasteel.</CreateBionicSpine.description>
+  <CreateBionicSpine.jobString>Crafting bionic.</CreateBionicSpine.jobString>
+
+  <CreateMedicalRib.label>Craft medical rib</CreateMedicalRib.label>
+  <CreateMedicalRib.description>Crafts a medical rib from plasteel and glitterworld medicine.</CreateMedicalRib.description>
+  <CreateMedicalRib.jobString>Crafting bionic.</CreateMedicalRib.jobString>
+
+  <CreateDruggedRib.label>Craft drugged rib</CreateDruggedRib.label>
+  <CreateDruggedRib.description>Crafts a drugged rib from plasteel and flake.</CreateDruggedRib.description>
+  <CreateDruggedRib.jobString>Crafting bionic.</CreateDruggedRib.jobString>
+
+  <CreateAdrenalineRib.label>Craft adrenaline rib</CreateAdrenalineRib.label>
+  <CreateAdrenalineRib.description>Crafts an adrenaline rib from plasteel and yayo.</CreateAdrenalineRib.description>
+  <CreateAdrenalineRib.jobString>Crafting bionic.</CreateAdrenalineRib.jobString>
+
+  <CreatePainkillerRib.label>Craft painkiller rib</CreatePainkillerRib.label>
+  <CreatePainkillerRib.description>Crafts a painkiller rib from plasteel and go-juice.</CreatePainkillerRib.description>
+  <CreatePainkillerRib.jobString>Crafting bionic.</CreatePainkillerRib.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Vanilla -->
+
+  <!--[Core] <InstallSimpleProstheticLeg.label>install simple prosthetic leg</InstallSimpleProstheticLeg.label>-->
+  <!--[Core] <InstallSimpleProstheticLeg.description>Installs simple prosthetic leg.</InstallSimpleProstheticLeg.description>-->
+  <!--[Core] <InstallSimpleProstheticLeg.jobString>Installing simple prostethic leg.</InstallSimpleProstheticLeg.jobString>-->
+
+  <!--[Core] <InstallSimpleProstheticArm.label>install simple prosthetic arm</InstallSimpleProstheticArm.label>-->
+  <!--[Core] <InstallSimpleProstheticArm.description>Installs simple prosthetic arm.</InstallSimpleProstheticArm.description>-->
+  <!--[Core] <InstallSimpleProstheticArm.jobString>Installing simple prostethic arm.</InstallSimpleProstheticArm.jobString>-->
+
+
+  <!-- Mod -->
+
+  <InstallGoldenEye.label>install golden eye</InstallGoldenEye.label>
+  <InstallGoldenEye.description>Installs golden eye.</InstallGoldenEye.description>
+  <InstallGoldenEye.jobString>Installing golden eye.</InstallGoldenEye.jobString>
+
+  <InstallSimpleProstheticHand.label>install simple prosthetic hand</InstallSimpleProstheticHand.label>
+  <InstallSimpleProstheticHand.description>Installs a simple prosthetic hand.</InstallSimpleProstheticHand.description>
+  <InstallSimpleProstheticHand.jobString>Installing simple prosthetic hand.</InstallSimpleProstheticHand.jobString>
+
+  <InstallSimpleProstheticFoot.label>install simple prosthetic foot</InstallSimpleProstheticFoot.label>
+  <InstallSimpleProstheticFoot.description>Installs a simple prosthetic foot.</InstallSimpleProstheticFoot.description>
+  <InstallSimpleProstheticFoot.jobString>Installing simple prosthetic foot.</InstallSimpleProstheticFoot.jobString>
+
+  <InstallArtificialNose.label>install artificial nose</InstallArtificialNose.label>
+  <InstallArtificialNose.description>Installs artificial nose.</InstallArtificialNose.description>
+  <InstallArtificialNose.jobString>Installing artificial nose.</InstallArtificialNose.jobString>
+
+  <InstallHydraulicJaw.label>install hydraulic jaw</InstallHydraulicJaw.label>
+  <InstallHydraulicJaw.description>Installs hydraulic jaw.</InstallHydraulicJaw.description>
+  <InstallHydraulicJaw.jobString>Installing hydraulic jaw.</InstallHydraulicJaw.jobString>
+
+  <InstallArtificialPelvis.label>install artifical pelvis</InstallArtificialPelvis.label>
+  <InstallArtificialPelvis.description>Installs artifical pelvis.</InstallArtificialPelvis.description>
+  <InstallArtificialPelvis.jobString>Installing artifical pelvis.</InstallArtificialPelvis.jobString>
+
+
+</LanguageData>

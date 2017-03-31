@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tier 0 -->
+
+  <BasicProsthetics.label>Basic prosthetics</BasicProsthetics.label>
+  <BasicProsthetics.description>Understanding the shape of a leg and combining that knowledge with basic woodworking, you can now craft peg legs and other basic prostheses.</BasicProsthetics.description>
+
+
+  <!-- Tier 1 -->
+
+  <SimpleProsthetics.label>Simple prosthetics</SimpleProsthetics.label>
+  <SimpleProsthetics.description>Advanced anatomy studies and metal testing will allow you to build simple prostheses.</SimpleProsthetics.description>
+
+
+  <!-- Tier 2 -->
+
+  <Bionics.label>bionics</Bionics.label>
+  <Bionics.description>Discovering the concept of very small motors and circuits, new possibilities of better prostheses are now open for you.</Bionics.description>
+
+  <SurrogateOrgans.label>surrogate organs</SurrogateOrgans.label>
+  <SurrogateOrgans.description>Gaining higher medical knowledge, crafting simple surrogate organs to replace missing ones becomes possible.</SurrogateOrgans.description>
+
+  <RibReplacements.label>rib replacements</RibReplacements.label>
+  <RibReplacements.description>Discovering the concept of very small dispensers, you think about putting them in ribs. You can now craft and install rib implants.</RibReplacements.description>
+
+  <VancidiumRefineryTech.label>vancidium and advanced components</VancidiumRefineryTech.label>
+  <VancidiumRefineryTech.description>While combining random materials you discover how to create a very light but strong material that could be used for crafting more advanced prostheses. You can now craft vancidium at the electric smelter and also assemble advanced components at component assembly bench!</VancidiumRefineryTech.description>
+
+
+  <!-- Tier 2.5 -->
+
+  <AdvancedBionics.label>advanced bionics</AdvancedBionics.label>
+  <AdvancedBionics.description>Upgrade regular bionics with vancidium to make them even better. Unlocks the upgrading station.</AdvancedBionics.description>
+
+  <SyntheticOrgans.label>synthetic organs</SyntheticOrgans.label>
+  <SyntheticOrgans.description>Further research in nano-technology allows you to create incredibly well-engineered artificial organs on the upgrading station. Unlocks new recipes on the upgrading station.</SyntheticOrgans.description>
+
+  <BrainSurgery.label>brain surgery</BrainSurgery.label>
+  <BrainSurgery.description>Allows you to perform surgery on the brain.</BrainSurgery.description>
+
+
+</LanguageData>
