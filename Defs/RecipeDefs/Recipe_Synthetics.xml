@@ -2,8 +2,6 @@
 <RecipeDefs>
 
 	<RecipeDef Name="SurgerySynthetic" ParentName="SurgeryFlesh" Abstract="True">
-		<surgeonSurgerySuccessChanceExponent>2</surgeonSurgerySuccessChanceExponent>
-		<roomSurgerySuccessChanceFactorExponent>4</roomSurgerySuccessChanceFactorExponent>
 		<surgerySuccessChanceFactor>0.9</surgerySuccessChanceFactor>
 		<deathOnFailedSurgeryChance>0.1</deathOnFailedSurgeryChance>
 		<recipeUsers>
@@ -12,8 +10,6 @@
 	</RecipeDef>
 
 	<RecipeDef Name="SurgerySyntheticVanilla" ParentName="SurgeryFlesh" Abstract="True">
-		<surgeonSurgerySuccessChanceExponent>2</surgeonSurgerySuccessChanceExponent>
-		<roomSurgerySuccessChanceFactorExponent>4</roomSurgerySuccessChanceFactorExponent>
 		<surgerySuccessChanceFactor>0.9</surgerySuccessChanceFactor>
 		<deathOnFailedSurgeryChance>0.1</deathOnFailedSurgeryChance>
 	</RecipeDef>
@@ -22,9 +18,9 @@
 		<defName>InstallAIChip</defName>
 		<label>install AI chip</label>
 		<description>Installs AI chip.</description>
-		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<workerClass>Recipe_InstallImplant</workerClass>
 		<jobString>Installing AI chip.</jobString>
-		<workAmount>1000</workAmount>
+		<workAmount>2000</workAmount>
 		<ingredients>
 			<li>
 				<filter>
@@ -55,6 +51,46 @@
 			<li>Brain</li>
 		</appliedOnFixedBodyParts>
 		<addsHediff>AIChip</addsHediff>
+		<researchPrerequisite>BrainSurgery</researchPrerequisite>
+	</RecipeDef>
+	
+	<RecipeDef ParentName="SurgerySynthetic">
+		<defName>InstallAIPersonaCore</defName>
+		<label>install AI persona core</label>
+		<description>Installs AI persona core.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing AI persona core.</jobString>
+		<workAmount>2000</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>AIPersonaCore</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>AIPersonaCore</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Brain</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>AIPersonaCore</addsHediff>
 		<researchPrerequisite>BrainSurgery</researchPrerequisite>
 	</RecipeDef>
 

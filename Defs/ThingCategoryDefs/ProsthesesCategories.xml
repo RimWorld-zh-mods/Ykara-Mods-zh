@@ -26,6 +26,12 @@
     <label>advanced bionics</label>
     <parent>BodyPartsArtificial</parent>
   </ThingCategoryDef>
+ 
+  <ThingCategoryDef>
+    <defName>GlitterworldParts</defName>
+    <label>Glitterworld parts</label>
+    <parent>BodyPartsArtificial</parent>
+  </ThingCategoryDef>
   
 <!--Organs-->
 

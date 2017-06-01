@@ -26,13 +26,22 @@
                <capacity>Sight</capacity>
                <offset>-0.5</offset>
             </li>
-            <li>
-               <capacity>Talking</capacity>
-               <offset>0.2</offset>
-            </li>
          </capMods>
+         <statOffsets>
+               <RecruitPrisonerChance>+0.20</RecruitPrisonerChance>
+               <SocialImpact>+0.15</SocialImpact>
+         </statOffsets>
 		</li>	 
       </stages>
+   </HediffDef>
+   
+   <HediffDef ParentName="addedPartSimple">
+      <defName>LightReceptor</defName>
+      <label>light receptor</label>
+      <spawnThingOnRemoved>LightReceptor</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>0.6</partEfficiency>
+      </addedPartProps>
    </HediffDef>
    
    <HediffDef ParentName="addedPartSimple">
@@ -131,6 +140,15 @@
       <defName>ArtificialPelvis</defName>
       <label>artificial pelvis</label>
       <spawnThingOnRemoved>ArtificialPelvis</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>0.9</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   
+   <HediffDef ParentName="addedPartSimple">
+      <defName>ArtificialClavicle</defName>
+      <label>artificial clavicle</label>
+      <spawnThingOnRemoved>ArtificialClavicle</spawnThingOnRemoved>
       <addedPartProps>
          <partEfficiency>0.9</partEfficiency>
       </addedPartProps>

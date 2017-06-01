@@ -11,13 +11,28 @@
    <!-- Added body parts -->
    
    <HediffDef ParentName="addedPartSurrogate">
+      <hediffClass>Hediff_Implant</hediffClass>
       <defName>BrainStimulator</defName>
       <label>brain stimulator</label>
       <spawnThingOnRemoved>BrainStimulator</spawnThingOnRemoved>
       <addedPartProps>
          <isSolid>true</isSolid>
-         <partEfficiency>0.65</partEfficiency>
+         <partEfficiency>1.0</partEfficiency>
       </addedPartProps>
+	  <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Consciousness</capacity>
+                  <offset>1</offset>
+               </li>
+               <li>
+                  <capacity>Consciousness</capacity>
+                  <setMax>0.65</setMax>
+               </li>
+            </capMods>
+         </li>
+      </stages>
    </HediffDef>
    
    <HediffDef ParentName="addedPartSurrogate">

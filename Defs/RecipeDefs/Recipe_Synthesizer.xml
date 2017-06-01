@@ -22,7 +22,7 @@
 	<RecipeDef ParentName="RecipeSyntheticOrgan">
 		<defName>CreateAIChip</defName>
 		<label>Craft AI chip</label>
-		<description>Creates an AI chip. Needs gold and avanced components for highest quality circuitry.</description>
+		<description>Creates an AI chip. Needs gold and energized components for highest quality circuitry.</description>
 		<jobString>Creating synthetic organ.</jobString>
 		<ingredients>
 			<li>
@@ -65,7 +65,7 @@
 	<RecipeDef ParentName="RecipeSyntheticOrgan">
 		<defName>CreateJoywire</defName>
 		<label>Craft joywire</label>
-		<description>Creates a joywire. Needs gold and avanced components for highest quality circuitry.</description>
+		<description>Creates a joywire. Needs gold and energized components for highest quality circuitry.</description>
 		<jobString>Creating synthetic organ.</jobString>
 		<ingredients>
 			<li>
@@ -108,7 +108,7 @@
 	<RecipeDef ParentName="RecipeSyntheticOrgan">
 		<defName>CreatePainstopper</defName>
 		<label>Craft painstopper</label>
-		<description>Creates a painstopper implant. Needs gold and avanced components for highest quality circuitry.</description>
+		<description>Creates a painstopper implant. Needs gold and energized components for highest quality circuitry.</description>
 		<jobString>Creating synthetic organ.</jobString>
 		<ingredients>
 			<li>
@@ -151,7 +151,7 @@
 	<RecipeDef ParentName="RecipeSyntheticOrgan">
 		<defName>CreateSyntheticLung</defName>
 		<label>Create synthetic lung</label>
-		<description>Creates a synthetic lung from hyperweave, energized components and their surrogate counterpart.</description>
+		<description>Creates a synthetic lung from hyperweave, energized components and its surrogate counterpart.</description>
 		<jobString>Creating synthetic organ.</jobString>
 		<ingredients>
 			<li>
@@ -194,7 +194,7 @@
 	<RecipeDef ParentName="RecipeSyntheticOrgan">
 		<defName>CreateSyntheticStomach</defName>
 		<label>Create synthetic stomach</label>
-		<description>Creates a synthetic stomach from hyperweave, energized components and their surrogate counterpart.</description>
+		<description>Creates a synthetic stomach from hyperweave, energized components and its surrogate counterpart.</description>
 		<jobString>Creating synthetic organ.</jobString>
 		<ingredients>
 			<li>
@@ -237,7 +237,7 @@
 	<RecipeDef ParentName="RecipeSyntheticOrgan">
 		<defName>CreateSyntheticLiver</defName>
 		<label>Create synthetic liver</label>
-		<description>Creates a synthetic liver from hyperweave, energized components and their surrogate counterpart.</description>
+		<description>Creates a synthetic liver from hyperweave, energized components and its surrogate counterpart.</description>
 		<jobString>Creating synthetic organ.</jobString>
 		<ingredients>
 			<li>
@@ -280,7 +280,7 @@
 	<RecipeDef ParentName="RecipeSyntheticOrgan">
 		<defName>CreateSyntheticKidney</defName>
 		<label>Create synthetic kidney</label>
-		<description>Creates a synthetic kidney from hyperweave, energized components and their surrogate counterpart.</description>
+		<description>Creates a synthetic kidney from hyperweave, energized components and its surrogate counterpart.</description>
 		<jobString>Creating synthetic organ.</jobString>
 		<ingredients>
 			<li>
@@ -323,7 +323,7 @@
 	<RecipeDef ParentName="RecipeSyntheticOrgan">
 		<defName>CreateSyntheticHeart</defName>
 		<label>Create synthetic heart</label>
-		<description>Creates an synthetic heart from hyperweave, energized components and their surrogate counterpart.</description>
+		<description>Creates an synthetic heart from hyperweave, energized components and its surrogate counterpart.</description>
 		<jobString>Creating synthetic organ.</jobString>
 		<ingredients>
 			<li>
@@ -366,35 +366,36 @@
 	<RecipeDef ParentName="RecipeSyntheticOrgan">
 		<defName>CreateSyntheticSkin</defName>
 		<label>Create synthetic skin</label>
-		<description>Creates synthetic skin from hyperweave and human leather.</description>
+		<description>Creates synthetic skin from hyperweave and Glitterworld medicine.</description>
 		<jobString>Creating synthetic organ.</jobString>
 		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>GlitterworldMedicine</li>
+					</thingDefs>
+				</filter>
+				<count>3</count>
+			</li>
 			<li>
 				<filter>
 					<thingDefs>
 						<li>Hyperweave</li>
 					</thingDefs>
 				</filter>
-				<count>15</count>
-			</li>
-			<li>
-				<filter>
-					<thingDefs>
-						<li>EnergizedComponents</li>
-					</thingDefs>
-				</filter>
-				<count>2</count>
+				<count>25</count>
 			</li>
 		</ingredients>
 		<fixedIngredientFilter>
 			<thingDefs>
+				<li>GlitterworldMedicine</li>
 				<li>Hyperweave</li>
-				<li>EnergizedComponents</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>
 			<SyntheticSkin>1</SyntheticSkin>
 		</products>
+		<researchPrerequisite>SyntheticSkin</researchPrerequisite>
 	</RecipeDef>
 
 </RecipeDefs>

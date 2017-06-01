@@ -7,6 +7,7 @@
 		<unfinishedThingDef>UnfinishedProsthesis</unfinishedThingDef>
 		<workSkill>Crafting</workSkill>
 		<workAmount>10000</workAmount>
+		<researchPrerequisite>AdvancedBionics</researchPrerequisite>
 		<skillRequirements>
 			<li>
 				<skill>Crafting</skill>

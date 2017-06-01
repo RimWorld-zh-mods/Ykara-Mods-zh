@@ -126,6 +126,17 @@
         </countRange>
       </li>	
       <li Class="StockGenerator_Tag">
+        <tradeTag>GlitterworldParts</tradeTag>
+        <thingDefCountRange>
+          <min>-2</min>
+          <max>1</max>
+        </thingDefCountRange>
+        <countRange>
+          <min>1</min>
+          <max>1</max>
+        </countRange>
+      </li>	
+      <li Class="StockGenerator_Tag">
         <tradeTag>BodyPartsAndImplants</tradeTag>
         <thingDefCountRange>
           <min>0</min>

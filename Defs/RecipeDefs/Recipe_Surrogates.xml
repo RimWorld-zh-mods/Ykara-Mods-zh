@@ -2,8 +2,6 @@
 <RecipeDefs>
 
 	<RecipeDef Name="SurgerySurrogate" ParentName="SurgeryFlesh" Abstract="True">
-		<surgeonSurgerySuccessChanceExponent>2</surgeonSurgerySuccessChanceExponent>
-		<roomSurgerySuccessChanceFactorExponent>4</roomSurgerySuccessChanceFactorExponent>
 		<surgerySuccessChanceFactor>0.9</surgerySuccessChanceFactor>
 		<deathOnFailedSurgeryChance>0.2</deathOnFailedSurgeryChance>
 		<recipeUsers>
@@ -15,7 +13,7 @@
 		<defName>InstallBrainStimulator</defName>
 		<label>install brain stimulator</label>
 		<description>Installs brain stimulator.</description>
-		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<workerClass>Recipe_InstallImplant</workerClass>
 		<jobString>Installing brain stimulator.</jobString>
 		<workAmount>1000</workAmount>
 		<ingredients>

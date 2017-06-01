@@ -272,6 +272,40 @@
 	</RecipeDef>
 
 	<RecipeDef ParentName="RecipeSimpleProsthesis">
+		<defName>CreateLightReceptor</defName>
+		<label>Craft light receptor</label>
+		<description>Crafts a light detector from plasteel and components.</description>
+		<jobString>Crafting prosthesis.</jobString>
+		<products>
+			<LightReceptor>1</LightReceptor>
+		</products>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Plasteel</li>
+					</thingDefs>
+				</filter>
+				<count>25</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Component</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Plasteel</li>
+				<li>Component</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+	</RecipeDef>
+	
+	<RecipeDef ParentName="RecipeSimpleProsthesis">
 		<defName>CreateArtificialPelvis</defName>
 		<label>craft artificial pelvis</label>
 		<description>Crafts an artificial pelvis from steel and plasteel.</description>

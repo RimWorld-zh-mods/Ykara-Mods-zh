@@ -3,6 +3,9 @@
 
 	<InstallGoldenEye.label>Implantiere goldenes Auge</InstallGoldenEye.label>
 	<InstallGoldenEye.description>Implantiert goldenes Auge.</InstallGoldenEye.description>
+	
+	<InstallLightReceptor.label>Implantiere Lichtrezeptor</InstallLightReceptor.label>
+	<InstallLightReceptor.description>Implantiert Lichtrezeptor.</InstallLightReceptor.description>
 
 	<InstallSimpleProstheticHand.label>Bringe einfache Handprothese an</InstallSimpleProstheticHand.label>
 	<InstallSimpleProstheticHand.description>Bringt einfache Handprothese an.</InstallSimpleProstheticHand.description>

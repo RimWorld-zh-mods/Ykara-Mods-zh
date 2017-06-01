@@ -14,17 +14,6 @@
    
    <!-- Added body parts -->
    
-<!--
-  <HediffDef ParentName="addedPartBionics">
-    <defName>AICore</defName>
-    <label>AI Core</label>
-    <addedPartProps>
-      <isSolid>true</isSolid>
-      <partEfficiency>1.2</partEfficiency>
-	<spawnThingOnRemoved>AIPersonaCore</spawnThingOnRemoved>
-    </addedPartProps>
-  </HediffDef>
--->
    
    <HediffDef ParentName="addedPartBionics">
       <defName>PowerArm</defName>

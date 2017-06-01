@@ -27,5 +27,8 @@
 
 	<CreateGoldenEye.label>Stelle goldenes Auge her</CreateGoldenEye.label>
 	<CreateGoldenEye.description>Fertigt ein goldenes Auge aus - richtig geraten - Gold an!</CreateGoldenEye.description>
+	
+	<CreateLightReceptor.label>Stelle Lichtrezeptor her</CreateLightReceptor.label>
+	<CreateLightReceptor.description>Fertigt einen Lichtrezeptor aus Plastahl und Bauteilen an.</CreateLightReceptor.description>
 
 </LanguageData>

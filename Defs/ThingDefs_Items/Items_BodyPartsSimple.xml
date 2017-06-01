@@ -8,6 +8,10 @@
 		<thingCategories>
 			<li>SimpleProstheses</li>
 		</thingCategories>
+		<graphicData>
+			<texPath>Things/Item/BodyPart/SimplePart</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
 	</ThingDef>
 
 	<!-- Added body parts -->
@@ -16,10 +20,6 @@
 		<defName>GoldenEye</defName>
 		<label>golden eye</label>
 		<description>Replaces missing eyes. So incredibly beautiful that it's a shame you can't see yourself in the mirror.</description>
-		<graphicData>
-			<texPath>Things/Item/BodyPart/ArtificialOrgan</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
 		<statBases>
 			<MarketValue>300</MarketValue>
 			<Mass>0.3</Mass>
@@ -33,10 +33,6 @@
 		<defName>ArtificialNose</defName>
 		<label>artificial nose</label>
 		<description>Replaces a missing nose. Covers the hole in the face.</description>
-		<graphicData>
-			<texPath>Things/Item/BodyPart/ArtificialOrgan</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
 		<statBases>
 			<MarketValue>300</MarketValue>
 			<Mass>0.2</Mass>
@@ -50,13 +46,22 @@
 		<defName>HydraulicJaw</defName>
 		<label>hydraulic jaw</label>
 		<description>Replaces a missing jaw. Be careful with the extremely efficient teeth!</description>
-		<graphicData>
-			<texPath>Things/Item/BodyPart/ArtificialOrgan</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
 		<statBases>
 			<MarketValue>200</MarketValue>
 			<Mass>2</Mass>
+		</statBases>
+		<techHediffsTags>
+			<li>Simple</li>
+		</techHediffsTags>
+	</ThingDef>   
+	
+	<ThingDef ParentName="Simple">
+		<defName>LightReceptor</defName>
+		<label>light receptor</label>
+		<description>Replaces a missing eye. Can detect light and even objects. Like looking through frosted glass but without the colors.</description>
+		<statBases>
+			<MarketValue>475</MarketValue>
+			<Mass>0.3</Mass>
 		</statBases>
 		<techHediffsTags>
 			<li>Simple</li>
@@ -67,10 +72,6 @@
 		<defName>SimpleProstheticHand</defName>
 		<label>simple prosthetic hand</label>
 		<description>Replaces missing hands. Way more comfortable and less frightening than the hook hand.</description>
-		<graphicData>
-			<texPath>Things/Item/BodyPart/ArtificialOrgan</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
 		<statBases>
 			<MarketValue>450</MarketValue>
 			<Mass>3</Mass>
@@ -84,10 +85,6 @@
 		<defName>SimpleProstheticFoot</defName>
 		<label>simple prosthetic foot</label>
 		<description>Replaces missing feet. Not as cheap as a wood log.</description>
-		<graphicData>
-			<texPath>Things/Item/BodyPart/ArtificialOrgan</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
 		<statBases>
 			<MarketValue>400</MarketValue>
 			<Mass>3</Mass>
@@ -101,10 +98,6 @@
 		<defName>SimpleProstheticLeg</defName>
 		<label>simple prosthetic leg</label>
 		<description>Simple prosthesis made to replace missing leg. Not very comfortable but quite efficient.</description>
-		<graphicData>
-			<texPath>Things/Item/BodyPart/ArtificialOrgan</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
 		<statBases>
 			<MarketValue>700</MarketValue>
 			<Mass>8</Mass>
@@ -118,10 +111,6 @@
 		<defName>SimpleProstheticArm</defName>
 		<label>simple prosthetic arm</label>
 		<description>Simple but durable arm prosthesis.</description>
-		<graphicData>
-			<texPath>Things/Item/BodyPart/ArtificialOrgan</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
 		<statBases>
 			<MarketValue>700</MarketValue>
 			<Mass>5</Mass>
@@ -135,10 +124,6 @@
 		<defName>ArtificialPelvis</defName>
 		<label>artificial pelvis</label>
 		<description>Replaces a missing pelvis. Pretty useful if crawling is not your favourite way of moving around.</description>
-		<graphicData>
-			<texPath>Things/Item/BodyPart/ArtificialOrgan</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
 		<statBases>
 			<MarketValue>450</MarketValue>
 			<Mass>5</Mass>
@@ -152,10 +137,6 @@
 		<defName>ArtificialClavicle</defName>
 		<label>artificial clavicle</label>
 		<description>Replaces a missing clavicle. If you somehow manage to break yours.</description>
-		<graphicData>
-			<texPath>Things/Item/BodyPart/ArtificialOrgan</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
 		<statBases>
 			<MarketValue>100</MarketValue>
 			<Mass>0.5</Mass>

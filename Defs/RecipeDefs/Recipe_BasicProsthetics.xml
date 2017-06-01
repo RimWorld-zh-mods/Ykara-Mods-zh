@@ -2,6 +2,8 @@
 <RecipeDefs>
 
 	<RecipeDef Name="SurgeryBasic" ParentName="SurgeryFlesh" Abstract="True">
+		<surgerySuccessChanceFactor>1</surgerySuccessChanceFactor>
+		<deathOnFailedSurgeryChance>0</deathOnFailedSurgeryChance>
 		<recipeUsers>
 			<li>Human</li>
 		</recipeUsers>

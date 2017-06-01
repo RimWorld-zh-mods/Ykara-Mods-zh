@@ -5,11 +5,12 @@
 		<defName>MakeEnergizedComponent</defName>
 		<label>energize components</label>
 		<description>Energize components.</description>
-		<jobString>Making advanced component.</jobString>
+		<jobString>Energizing components.</jobString>
 		<workSpeedStat>SmithingSpeed</workSpeedStat>
 		<effectWorking>Cook</effectWorking>
 		<soundWorking>Recipe_Machining</soundWorking>
 		<workAmount>10000</workAmount>
+        <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
 		<recipeUsers>
 			<li>ComponentAssemblyBench</li>
 		</recipeUsers>

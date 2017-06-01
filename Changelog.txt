@@ -1,8 +1,20 @@
-2.0 - Less is more! (Preview 19.02.2017)
+2.0 - A New Beginning! (24.05.2017)
 *  Restructured the workbenches and condensed them to 4
+*  Added a whole new range of new and even more advanced implants: Glitterworld Parts!
+*  Readded the option to mend scars!
 *  Removed Vancidium and replaced it with Uranium 
 *  Replaced advanced components with energized components
-*  Adjusted countless market values
+*  Added the option to install AI persona cores
+*  All items now have fitting colors
+*  Added the light detector
+*  Removed the option to harvest eyes
+*  Prosthetics Research now has its own tab!
+*  AI-Chip and Brain Stimulator are now implants
+*  Reworked the golden eye
+*  Energized components now have an unfinished item
+*  Adjusted absolutely all market values
+*  Finally renamed the artificial heart to synthetic heart
+*  Some miscellaneous description or recipe fixes
 
 1.91 - Translations and Minor Fixes (19.02.2017)
 *  Added Chinese Translation! (HUGE thanks to duduluu!)

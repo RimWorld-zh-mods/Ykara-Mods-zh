@@ -54,6 +54,7 @@
 		 <li>CreateArtificialClavicle</li>
          <li>CreateHydraulicJaw</li>
          <li>CreateArtificialNose</li>
+         <li>CreateLightReceptor</li>
          <li>CreateGoldenEye</li>
       </recipes>
       <inspectorTabs>

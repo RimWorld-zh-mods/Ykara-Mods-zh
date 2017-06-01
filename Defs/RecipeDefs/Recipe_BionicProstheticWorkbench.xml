@@ -24,10 +24,18 @@
 			<li>
 				<filter>
 					<thingDefs>
+						<li>LightReceptor</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
 						<li>Plasteel</li>
 					</thingDefs>
 				</filter>
-				<count>55</count>
+				<count>45</count>
 			</li>
 			<li>
 				<filter>
@@ -35,11 +43,12 @@
 						<li>Component</li>
 					</thingDefs>
 				</filter>
-				<count>1</count>
+				<count>3</count>
 			</li>
 		</ingredients>
 		<fixedIngredientFilter>
 			<thingDefs>
+				<li>LightReceptor</li>
 				<li>Plasteel</li>
 				<li>Component</li>
 			</thingDefs>
@@ -422,7 +431,7 @@
 	<RecipeDef ParentName="RecipeBionicProsthesis">
 		<defName>CreateMedicalRib</defName>
 		<label>Craft medical rib</label>
-		<description>Crafts a medical rib from plasteel and glitterworld medicine.</description>
+		<description>Crafts a medical rib from plasteel and Glitterworld medicine.</description>
 		<jobString>Crafting bionic.</jobString>
 		<ingredients>
 			<li>
