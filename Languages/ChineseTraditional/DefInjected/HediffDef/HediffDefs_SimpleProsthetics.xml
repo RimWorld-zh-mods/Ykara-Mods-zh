@@ -4,7 +4,7 @@
   <!-- Added body parts -->
 
   <GoldenEye.label>黃金眼</GoldenEye.label>
-  <LightReceptor.label>光接收器</LightReceptor.label>
+  <LightReceptor.label>光接受器</LightReceptor.label>
   <SimpleProstheticHand.label>簡易的假手</SimpleProstheticHand.label>
   <SimpleProstheticFoot.label>簡易的假足</SimpleProstheticFoot.label>
   <!--[Core] <SimpleProstheticArm.label>手臂義肢</SimpleProstheticArm.label>-->

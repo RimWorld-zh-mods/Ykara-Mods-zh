@@ -12,7 +12,7 @@
   <HydraulicJaw.label>液壓頜</HydraulicJaw.label>
   <HydraulicJaw.description>用來代替缺失的下頜。要小心極高效率的牙齒！</HydraulicJaw.description>
 
-  <LightReceptor.label>光接收器</LightReceptor.label>
+  <LightReceptor.label>光接受器</LightReceptor.label>
   <LightReceptor.description>用來代替缺失的眼睛。可以感受光纖甚至物體。就像透過毛玻璃看東西一樣，但無法感受色彩。</LightReceptor.description>
 
   <SimpleProstheticHand.label>簡易的假手</SimpleProstheticHand.label>

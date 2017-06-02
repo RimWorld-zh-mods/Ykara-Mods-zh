@@ -18,9 +18,9 @@
   <InstallGoldenEye.description>安裝黃金眼。</InstallGoldenEye.description>
   <InstallGoldenEye.jobString>正在安裝黃金眼。</InstallGoldenEye.jobString>
 
-  <InstallLightReceptor.label>安裝光接收器</InstallLightReceptor.label>
-  <InstallLightReceptor.description>安裝光接收器。</InstallLightReceptor.description>
-  <InstallLightReceptor.jobString>正在安裝光接收器。</InstallLightReceptor.jobString>
+  <InstallLightReceptor.label>安裝光接受器</InstallLightReceptor.label>
+  <InstallLightReceptor.description>安裝光接受器。</InstallLightReceptor.description>
+  <InstallLightReceptor.jobString>正在安裝光接受器。</InstallLightReceptor.jobString>
 
   <InstallSimpleProstheticHand.label>安裝簡易的假手</InstallSimpleProstheticHand.label>
   <InstallSimpleProstheticHand.description>安裝簡易的假手。</InstallSimpleProstheticHand.description>
