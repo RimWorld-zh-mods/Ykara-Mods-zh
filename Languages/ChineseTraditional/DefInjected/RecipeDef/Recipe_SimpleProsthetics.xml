@@ -5,11 +5,11 @@
 
   <!--[Core] <InstallSimpleProstheticLeg.label>安裝簡單腿部義肢</InstallSimpleProstheticLeg.label>-->
   <!--[Core] <InstallSimpleProstheticLeg.description>安裝簡單腿部義肢。</InstallSimpleProstheticLeg.description>-->
-  <!--[Core] <InstallSimpleProstheticLeg.jobString>正在安裝簡單腿部義肢。</InstallSimpleProstheticLeg.jobString>-->
+  <!--[Core] <InstallSimpleProstheticLeg.jobString>安裝簡單腿部義肢。</InstallSimpleProstheticLeg.jobString>-->
 
   <!--[Core] <InstallSimpleProstheticArm.label>安裝簡單手臂義肢</InstallSimpleProstheticArm.label>-->
   <!--[Core] <InstallSimpleProstheticArm.description>安裝簡單手臂義肢。</InstallSimpleProstheticArm.description>-->
-  <!--[Core] <InstallSimpleProstheticArm.jobString>正在安裝簡單手臂義肢。</InstallSimpleProstheticArm.jobString>-->
+  <!--[Core] <InstallSimpleProstheticArm.jobString>安裝簡單手臂義肢。</InstallSimpleProstheticArm.jobString>-->
 
 
   <!-- Mod -->
@@ -17,6 +17,10 @@
   <InstallGoldenEye.label>安裝黃金眼</InstallGoldenEye.label>
   <InstallGoldenEye.description>安裝黃金眼。</InstallGoldenEye.description>
   <InstallGoldenEye.jobString>正在安裝黃金眼。</InstallGoldenEye.jobString>
+
+  <InstallLightReceptor.label>安裝光接收器</InstallLightReceptor.label>
+  <InstallLightReceptor.description>安裝光接收器。</InstallLightReceptor.description>
+  <InstallLightReceptor.jobString>正在安裝光接收器。</InstallLightReceptor.jobString>
 
   <InstallSimpleProstheticHand.label>安裝簡易的假手</InstallSimpleProstheticHand.label>
   <InstallSimpleProstheticHand.description>安裝簡易的假手。</InstallSimpleProstheticHand.description>
@@ -37,6 +41,10 @@
   <InstallArtificialPelvis.label>安裝人造骨盆</InstallArtificialPelvis.label>
   <InstallArtificialPelvis.description>安裝人造骨盆。</InstallArtificialPelvis.description>
   <InstallArtificialPelvis.jobString>正在安裝人造骨盆。</InstallArtificialPelvis.jobString>
+
+  <InstallArtificialClavicle.label>安裝人造鎖骨</InstallArtificialClavicle.label>
+  <InstallArtificialClavicle.description>安裝人造鎖骨。</InstallArtificialClavicle.description>
+  <InstallArtificialClavicle.jobString>正在安裝人造鎖骨。</InstallArtificialClavicle.jobString>
 
 
 </LanguageData>

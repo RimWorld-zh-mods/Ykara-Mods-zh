@@ -4,6 +4,7 @@
   <!-- Added body parts -->
 
   <GoldenEye.label>黄金眼</GoldenEye.label>
+  <LightReceptor.label>光接受器</LightReceptor.label>
   <SimpleProstheticHand.label>简易的假手</SimpleProstheticHand.label>
   <SimpleProstheticFoot.label>简易的假足</SimpleProstheticFoot.label>
   <!--[Core] <SimpleProstheticArm.label>简易的假臂</SimpleProstheticArm.label>-->
@@ -11,6 +12,7 @@
   <ArtificialNose.label>人造鼻</ArtificialNose.label>
   <HydraulicJaw.label>液压颌</HydraulicJaw.label>
   <ArtificialPelvis.label>人造骨盆</ArtificialPelvis.label>
+  <ArtificialClavicle.label>人造锁骨</ArtificialClavicle.label>
 
 
 </LanguageData>

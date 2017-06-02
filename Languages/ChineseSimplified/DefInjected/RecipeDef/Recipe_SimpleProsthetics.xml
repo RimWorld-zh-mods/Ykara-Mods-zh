@@ -18,6 +18,10 @@
   <InstallGoldenEye.description>安装黄金眼。</InstallGoldenEye.description>
   <InstallGoldenEye.jobString>正在安装黄金眼。</InstallGoldenEye.jobString>
 
+  <InstallLightReceptor.label>安装光接受器</InstallLightReceptor.label>
+  <InstallLightReceptor.description>安装光接受器。</InstallLightReceptor.description>
+  <InstallLightReceptor.jobString>正在安装光接受器。</InstallLightReceptor.jobString>
+
   <InstallSimpleProstheticHand.label>安装简易的假手</InstallSimpleProstheticHand.label>
   <InstallSimpleProstheticHand.description>安装简易的假手。</InstallSimpleProstheticHand.description>
   <InstallSimpleProstheticHand.jobString>正在安装简易的假手。</InstallSimpleProstheticHand.jobString>
@@ -37,6 +41,10 @@
   <InstallArtificialPelvis.label>安装人造骨盆</InstallArtificialPelvis.label>
   <InstallArtificialPelvis.description>安装人造骨盆。</InstallArtificialPelvis.description>
   <InstallArtificialPelvis.jobString>正在安装人造骨盆。</InstallArtificialPelvis.jobString>
+
+  <InstallArtificialClavicle.label>安装人造锁骨</InstallArtificialClavicle.label>
+  <InstallArtificialClavicle.description>安装人造锁骨。</InstallArtificialClavicle.description>
+  <InstallArtificialClavicle.jobString>正在安装人造锁骨。</InstallArtificialClavicle.jobString>
 
 
 </LanguageData>

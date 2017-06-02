@@ -1,15 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- <HediffDef ParentName="addedPartBionics">
-    <defName>AICore</defName>
-    <label>AI Core</label>
-    <addedPartProps>
-      <isSolid>true</isSolid>
-      <partEfficiency>1.2</partEfficiency>
-	<spawnThingOnRemoved>AIPersonaCore</spawnThingOnRemoved>
-    </addedPartProps>
-  </HediffDef> -->
+  <!-- Added body parts -->
 
   <PowerArm.label>動力臂</PowerArm.label>
   <BionicHand.label>仿生手</BionicHand.label>

@@ -2,9 +2,10 @@
 <LanguageData>
 
   <TableBionics.label>仿生體工作台</TableBionics.label>
-  <TableBionics.Description>用於生產高科技仿生體的工作台。</TableBionics.Description>
+  <TableBionics.description>用於生產高科技仿生體的工作台。</TableBionics.description>
   <TableBionics_Blueprint.label>仿生體工作台（藍圖）</TableBionics_Blueprint.label>
   <TableBionics_Frame.label>仿生體工作台（建造中）</TableBionics_Frame.label>
+  <TableBionics_Frame.description>用於生產高科技仿生體的工作台。</TableBionics_Frame.description>
 
 
 </LanguageData>

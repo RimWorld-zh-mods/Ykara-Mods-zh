@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added implants -->
+
+  <MuscleStimulatorArms.label>肌肉激勵器</MuscleStimulatorArms.label>
+  <MuscleStimulatorLegs.label>肌肉激勵器</MuscleStimulatorLegs.label>
+  <TacticalCorneaImplant.label>戰術角膜植入體</TacticalCorneaImplant.label>
+  <ConstructorCore.label>輔助AI（建造）</ConstructorCore.label>
+  <FarmerCore.label>輔助AI（農業）</FarmerCore.label>
+  <MinerCore.label>輔助AI（採礦）</MinerCore.label>
+  <DoctorCore.label>輔助AI（醫療）</DoctorCore.label>
+  <DiplomatCore.label>輔助AI（外交）</DiplomatCore.label>
+
+
+</LanguageData>

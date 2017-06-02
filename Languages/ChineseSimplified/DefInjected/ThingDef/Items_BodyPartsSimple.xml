@@ -12,6 +12,9 @@
   <HydraulicJaw.label>液压颌</HydraulicJaw.label>
   <HydraulicJaw.description>用来代替缺失的下颌。要小心极高效率的牙齿！</HydraulicJaw.description>
 
+  <LightReceptor.label>光接受器</LightReceptor.label>
+  <LightReceptor.description>用来代替缺失的眼睛。可以感受光线甚至物体。就像透过毛玻璃看东西一样，但无法感受色彩。</LightReceptor.description>
+
   <SimpleProstheticHand.label>简易的假手</SimpleProstheticHand.label>
   <SimpleProstheticHand.description>用来代替缺失的手，不是很舒服但是相当有效。</SimpleProstheticHand.description>
 
@@ -27,8 +30,8 @@
   <ArtificialPelvis.label>人造骨盆</ArtificialPelvis.label>
   <ArtificialPelvis.description>用来代替缺失的骨盆。如果你不想在地上到处爬的话，还是非常有用的。</ArtificialPelvis.description>
 
-  <ArtificialClavicle.label>artificial clavicle</ArtificialClavicle.label>
-  <ArtificialClavicle.description>Replaces a missing clavicle. If you somehow manage to break yours.</ArtificialClavicle.description>
+  <ArtificialClavicle.label>人造锁骨</ArtificialClavicle.label>
+  <ArtificialClavicle.description>用来代替确实的锁骨。如果你不小心弄碎了原装的话。</ArtificialClavicle.description>
 
 
 </LanguageData>

@@ -5,6 +5,10 @@
   <InstallAIChip.description>安装AI芯片。</InstallAIChip.description>
   <InstallAIChip.jobString>正在安装AI芯片。</InstallAIChip.jobString>
 
+  <InstallAIPersonaCore.label>安装AI伪人格核心</InstallAIPersonaCore.label>
+  <InstallAIPersonaCore.description>安装AI伪人格核心。</InstallAIPersonaCore.description>
+  <InstallAIPersonaCore.jobString>正在安装AI伪人格核心。</InstallAIPersonaCore.jobString>
+
   <!--[Core] <InstallJoywire.label>安装乐丝芯片</InstallJoywire.label>-->
   <!--[Core] <InstallJoywire.description>安装乐丝芯片。</InstallJoywire.description>-->
   <!--[Core] <InstallJoywire.jobString>正在安装乐丝芯片。</InstallJoywire.jobString>-->

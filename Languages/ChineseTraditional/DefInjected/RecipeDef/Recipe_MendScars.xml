@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MendBurn.label>治療燒傷</MendBurn.label>
+  <MendBurn.description>治療燒傷。</MendBurn.description>
+  <MendBurn.jobString>正在治療燒傷。</MendBurn.jobString>
+  <MendBurn.successfullyRemovedHediffMessage>{0}成功治療了{1}的燒傷。</MendBurn.successfullyRemovedHediffMessage>
+
+  <MendCrush.label>治療壓傷</MendCrush.label>
+  <MendCrush.description>治療壓傷。</MendCrush.description>
+  <MendCrush.jobString>正在治療壓傷。</MendCrush.jobString>
+  <MendCrush.successfullyRemovedHediffMessage>{0}成功治療了{1}的壓傷。</MendCrush.successfullyRemovedHediffMessage>
+
+  <MendCut.label>治療割傷</MendCut.label>
+  <MendCut.description>治療割傷。</MendCut.description>
+  <MendCut.jobString>正在治療割傷。</MendCut.jobString>
+  <MendCut.successfullyRemovedHediffMessage>{0}成功治療了{1}的割傷。</MendCut.successfullyRemovedHediffMessage>
+
+  <MendSurgicalCut.label>治療手術傷</MendSurgicalCut.label>
+  <MendSurgicalCut.description>治療手術傷。</MendSurgicalCut.description>
+  <MendSurgicalCut.jobString>正在治療手術傷。</MendSurgicalCut.jobString>
+  <MendSurgicalCut.successfullyRemovedHediffMessage>{0}成功治療了{1}的手術傷。</MendSurgicalCut.successfullyRemovedHediffMessage>
+
+  <MendScratch.label>治療抓傷</MendScratch.label>
+  <MendScratch.description>治療抓傷。</MendScratch.description>
+  <MendScratch.jobString>正在治療抓傷。</MendScratch.jobString>
+  <MendScratch.successfullyRemovedHediffMessage>{0}成功治療了{1}的scratch。</MendScratch.successfullyRemovedHediffMessage>
+
+  <MendBite.label>治療咬傷</MendBite.label>
+  <MendBite.description>治療咬傷。</MendBite.description>
+  <MendBite.jobString>正在治療咬傷。</MendBite.jobString>
+  <MendBite.successfullyRemovedHediffMessage>{0}成功治療了{1}的咬傷。</MendBite.successfullyRemovedHediffMessage>
+
+  <MendStab.label>治療刺傷</MendStab.label>
+  <MendStab.description>治療刺傷。</MendStab.description>
+  <MendStab.jobString>正在治療刺傷。</MendStab.jobString>
+  <MendStab.successfullyRemovedHediffMessage>{0}成功治療了{1}的刺傷。</MendStab.successfullyRemovedHediffMessage>
+
+  <MendGunshot.label>治療槍傷</MendGunshot.label>
+  <MendGunshot.description>治療槍傷。</MendGunshot.description>
+  <MendGunshot.jobString>正在治療槍傷。</MendGunshot.jobString>
+  <MendGunshot.successfullyRemovedHediffMessage>{0}成功治療了{1}的槍傷。</MendGunshot.successfullyRemovedHediffMessage>
+
+  <MendShredded.label>治療炸傷</MendShredded.label>
+  <MendShredded.description>治療炸傷。</MendShredded.description>
+  <MendShredded.jobString>正在治療炸傷。</MendShredded.jobString>
+  <MendShredded.successfullyRemovedHediffMessage>{0}成功治療了{1}的炸傷。</MendShredded.successfullyRemovedHediffMessage>
+
+  <MendFrostBite.label>治療凍傷</MendFrostBite.label>
+  <MendFrostBite.description>治療凍傷。</MendFrostBite.description>
+  <MendFrostBite.jobString>正在治療凍傷。</MendFrostBite.jobString>
+  <MendFrostBite.successfullyRemovedHediffMessage>{0}成功治療了{1}的凍傷。</MendFrostBite.successfullyRemovedHediffMessage>
+
+
+</LanguageData>

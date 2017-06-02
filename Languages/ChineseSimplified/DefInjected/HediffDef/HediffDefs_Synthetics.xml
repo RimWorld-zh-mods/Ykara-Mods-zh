@@ -4,6 +4,7 @@
   <!-- Added body parts -->
 
   <AIChip.label>AI芯片</AIChip.label>
+  <AIPersonaCore.label>AI伪人格核心</AIPersonaCore.label>
   <SyntheticLung.label>合成肺</SyntheticLung.label>
   <SyntheticStomach.label>合成胃</SyntheticStomach.label>
   <SyntheticLiver.label>合成肝</SyntheticLiver.label>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <MuscleStimulator.label>肌肉激勵器</MuscleStimulator.label>
+  <MuscleStimulator.description>通過特殊的化學物質和電擊，這種小晶片可以讓肌肉處於最佳的效率。</MuscleStimulator.description>
+
+  <TacticalCorneaImplant.label>戰術角膜植入體</TacticalCorneaImplant.label>
+  <TacticalCorneaImplant.description>一種增強的植入體，為使用者提供潛在目標的附加信息並標明最佳射擊角度。</TacticalCorneaImplant.description>
+
+  <ConstructorCore.label>輔助AI（建造）</ConstructorCore.label>
+  <ConstructorCore.description>在閃耀世界，對於複雜的工作，教育和訓練不再是必要的。永久性安裝在大腦中的AI會與使用者溝通並提供知道。安裝需要研究脑部手术。</ConstructorCore.description>
+
+  <FarmerCore.label>輔助AI（農業）</FarmerCore.label>
+  <FarmerCore.description>在閃耀世界，對於複雜的工作，教育和訓練不再是必要的。永久性安裝在大腦中的AI會與使用者溝通並提供知道。安裝需要研究脑部手术。</FarmerCore.description>
+
+  <MinerCore.label>輔助AI（採礦）</MinerCore.label>
+  <MinerCore.description>在閃耀世界，對於複雜的工作，教育和訓練不再是必要的。永久性安裝在大腦中的AI會與使用者溝通並提供知道。安裝需要研究脑部手术。</MinerCore.description>
+
+  <DoctorCore.label>輔助AI（醫療）</DoctorCore.label>
+  <DoctorCore.description>在閃耀世界，對於複雜的工作，教育和訓練不再是必要的。永久性安裝在大腦中的AI會與使用者溝通並提供知道。安裝需要研究脑部手术。</DoctorCore.description>
+
+  <DiplomatCore.label>輔助AI（外交）</DiplomatCore.label>
+  <DiplomatCore.description>在閃耀世界，對於複雜的工作，教育和訓練不再是必要的。永久性安裝在大腦中的AI會與使用者溝通並提供知道。安裝需要研究脑部手术。</DiplomatCore.description>
+
+
+</LanguageData>

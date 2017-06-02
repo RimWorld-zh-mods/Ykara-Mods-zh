@@ -39,5 +39,8 @@
   <BrainSurgery.label>EPOE：脑部手术</BrainSurgery.label>
   <BrainSurgery.description>让你能够对脑部施行手术。</BrainSurgery.description>
 
+  <SyntheticSkin.label>EPOE：合成皮肤</SyntheticSkin.label>
+  <SyntheticSkin.description>解锁制作合成皮肤。</SyntheticSkin.description>
+
 
 </LanguageData>
