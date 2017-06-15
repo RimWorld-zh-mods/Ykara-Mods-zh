@@ -31,9 +31,9 @@
   <MendBite.jobString>正在治疗咬伤。</MendBite.jobString>
   <MendBite.successfullyRemovedHediffMessage>{0}成功治疗了{1}的咬伤。</MendBite.successfullyRemovedHediffMessage>
 
-  <MendStab.label>mend刺伤</MendStab.label>
-  <MendStab.description>Mend刺伤。</MendStab.description>
-  <MendStab.jobString>Mending刺伤。</MendStab.jobString>
+  <MendStab.label>治疗刺伤</MendStab.label>
+  <MendStab.description>治疗刺伤。</MendStab.description>
+  <MendStab.jobString>正在治疗刺伤。</MendStab.jobString>
   <MendStab.successfullyRemovedHediffMessage>{0}成功治疗了{1}的刺伤。</MendStab.successfullyRemovedHediffMessage>
 
   <MendGunshot.label>治疗枪伤</MendGunshot.label>
